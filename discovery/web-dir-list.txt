@@ -65,9 +65,12 @@
 /24/
 /25/
 /2g/
+/2nd/
 /3/
 /300/
+/32/
 /3g/
+/3rd/
 /4/
 /42/
 /454admin/
@@ -86,6 +89,7 @@
 /9/
 /99Block/
 /a/
+/a11yhelp/
 /aa/
 /aaa/
 /aadmin/
@@ -105,12 +109,14 @@
 /access-log/
 /access_log.1/
 /access-log.1/
+/accessPage/
 /accesswatch/
 /acciones/
 /account/
 /accounting/
 /accounts/
 /acct/
+/acquisition/
 /acsqadmin/
 /action/
 /actions/
@@ -119,9 +125,11 @@
 /activex/
 /activity/
 /ad/
+/AD/
 /ad_admin/
 /adadmin/
 /Ad_Admin/
+/adapters/
 /adbuys/
 /adclick/
 /add/
@@ -252,22 +260,26 @@
 /adm_login/
 /AdmSystem/
 /adobe/
+/adobeair/
 /adodb/
 /ads/
 /adserver/
 /ADSFGLKN32KFB/
 /adsystem/
 /AdSystem/
+/ADTemplate/
 /adtpphpmyadmin/
 /adv/
 /advanced/
 /advertise/
 /advertising/
+/advertising_space/
 /AdvWebAdmin/
 /advworks/
 /aelkeditor/
 /affiliate/
 /affiliates/
+/afp/
 /after/
 /agenda/
 /agent/
@@ -296,6 +308,7 @@
 /all/
 /allow/
 /all-wcprops/
+/alone/
 /alpha/
 /alumni/
 /~amanda/
@@ -312,6 +325,7 @@
 /ani/
 /ani1/
 /anime/
+/Announce/
 /announcement/
 /announcements/
 /annual/
@@ -325,6 +339,7 @@
 /Apache/
 /apexec/
 /api/
+/API/
 /apis/
 /_app/
 /app/
@@ -355,6 +370,7 @@
 /archive-role/
 /archives/
 /arcsight/
+/area/
 /array/
 /art/
 /article/
@@ -410,13 +426,16 @@
 /author/
 /authorized_keys/
 /authorized_keys2/
+/AuthorPic/
 /authors/
 /auto/
 /autocomplete/
+/autogrow/
 /automatic/
 /automation/
 /avatar/
 /avatars/
+/avgViews/
 /aw/
 /award/
 /awards/
@@ -472,6 +491,7 @@
 /baz/
 /bb/
 /bb_adminlogin/
+/bbcode/
 /bb-dnbd/
 /bb-hist/
 /bb-histlog/
@@ -494,6 +514,7 @@
 /beef/
 /beehive/
 /befaewebeditor/
+/behaviors/
 /benefits/
 /bestcollegepicks/
 /beta/
@@ -527,6 +548,8 @@
 /bloggers/
 /blogs/
 /blogspot/
+/blue/
+/blue_green/
 /bm/
 /bmqyadmin/
 /bngxe/
@@ -670,6 +693,7 @@
 /CHANGELOG/
 /changes/
 /changxingdb/
+/channel/
 /charge/
 /charges/
 /chat/
@@ -696,6 +720,7 @@
 /citrix/
 /Citrix/
 /Cityadmin/
+/cj/
 /cjcx/
 /ckeditor/
 /ckfinder/
@@ -716,6 +741,7 @@
 /cliente/
 /clientes/
 /clients/
+/clipboard/
 /clk/
 /clock/
 /close/
@@ -731,6 +757,7 @@
 /cmsample/
 /cmseditor/
 /CmsEditor/
+/cms_sys_defined/
 /cn/
 /cnf/
 /cnhwwdata/
@@ -750,10 +777,12 @@
 /coldfusion/
 /college/
 /College/
+/colordialog/
 /column/
 /columns/
 /com/
 /Comm/
+/commandclasses/
 /comment/
 /comments/
 /commerce/
@@ -765,6 +794,7 @@
 /comp/
 /compact/
 /company/
+/companyaddress/
 /compat/
 /complaint/
 /complaints/
@@ -794,6 +824,7 @@
 /connect/
 /connections/
 /Connections/
+/connectors/
 /console/
 /Console/
 /consumer/
@@ -814,6 +845,7 @@
 /cookies/
 /copies/
 /copy/
+/CopyFromPic/
 /copyright/
 /core/
 /coremail/
@@ -859,6 +891,8 @@
 /crypto/
 /cs/
 /CS/
+/csi/
+/csi_custom/
 /csproj/
 /csr/
 /css/
@@ -961,6 +995,7 @@
 /dede_bbs/
 /def/
 /default/
+/Default/
 /defaults/
 /definition/
 /definitions/
@@ -1009,6 +1044,7 @@
 /disclaimer/
 /discuz/
 /display/
+/div/
 /django/
 /djcbadmin/
 /dl/
@@ -1017,6 +1053,7 @@
 /dlslbbs/
 /dlxoadmin/
 /dm/
+/d_mail_examine/
 /dm-config/
 /DMR/
 /dms/
@@ -1058,11 +1095,13 @@
 /downloads/
 /downloadz/
 /dpjzadmin/
+/dragresizetable/
 /driver/
 /drivers/
 /drop/
 /dropped/
 /drupal/
+/dtd/
 /dtrkplus/
 /dummy/
 /dump/
@@ -1095,6 +1134,7 @@
 /edi/
 /edit/
 /Edit/
+/editarea/
 /EditBox/
 /editfile/
 /edithtml/
@@ -1127,16 +1167,20 @@
 /ejuyfckeditor/
 /ekdvgonggong/
 /ekheeditor/
+/Elegance/
 /element/
 /elementaltest/
 /elements/
 /em/
 /email/
+/Email/
 /emailclass/
 /emails/
 /embed/
 /embedded/
 /emea/
+/emot/
+/emot2/
 /employees/
 /employment/
 /empoyees/
@@ -1157,6 +1201,7 @@
 /engine/
 /english/
 /enter/
+/enterkey/
 /enterprise/
 /entertainment/
 /entries/
@@ -1214,6 +1259,7 @@
 /ewindoweditor/
 /ews/
 /ex/
+/_example/
 /example/
 /examples/
 /exc/
@@ -1239,6 +1285,7 @@
 /f/
 /fabric/
 /face/
+/Face/
 /facebook/
 /faces/
 /faculty/
@@ -1259,11 +1306,19 @@
 /fcgi-bin/
 /fck/
 /Fck/
+/fck_about/
+/fck_docprops/
 /fckeditor/
 /fckEditor/
 /FCKeditor/
 /fckeditor1/
+/fck_flash/
+/fck_image/
+/fck_link/
 /fckphp/
+/fck_select/
+/fck_spellerpages/
+/fck_template/
 /fdileditor/
 /fdlqnew/
 /feature/
@@ -1286,10 +1341,12 @@
 /files_upload/
 /filez/
 /film/
+/filter/
 /final/
 /finance/
 /financial/
 /find/
+/findreplace/
 /finger/
 /firefox/
 /firewall/
@@ -1305,6 +1362,7 @@
 /fn/
 /fnisphpmyadmin/
 /folder/
+/Folder/
 /folders/
 /foldoc/
 /font/
@@ -1354,7 +1412,10 @@
 /freepic/
 /freepics/
 /friend/
+/friendlink/
+/friendlink_ctg/
 /friends/
+/FriendSite/
 /frob/
 /front/
 /frontend/
@@ -1363,6 +1424,7 @@
 /frourmdata/
 /fs/
 /FTB/
+/ftl/
 /~ftp/
 /ftp/
 /ftproot/
@@ -1465,6 +1527,8 @@
 /~guest/
 /guest/
 /guestbook/
+/GuestBook/
+/guestbook_ctg/
 /guests/
 /guide/
 /guides/
@@ -1504,8 +1568,10 @@
 /hhehnew/
 /hi/
 /hiadmin/
+/hibernate/
 /hidden/
 /hide/
+/hidpi/
 /high/
 /hipaa/
 /hire/
@@ -1556,6 +1622,7 @@
 /html_editor/
 /htmleditor/
 /HtmlEditq/
+/htmlwriter/
 /.htpasswd/
 /htpasswd/
 /htsrv/
@@ -1605,6 +1672,7 @@
 /iisadmpwd/
 /iissamples/
 /image/
+/Image/
 /image200605/
 /imagefolio/
 /ImageGallery.aspx?rif=/
@@ -1664,6 +1732,7 @@
 /ini/
 /init/
 /inline/
+/inlineall/
 /input/
 /inquire/
 /inquiries/
@@ -1682,6 +1751,7 @@
 /interim/
 /intermediate/
 /internal/
+/internals/
 /international/
 /internet/
 /intl/
@@ -1696,7 +1766,9 @@
 /ip/
 /ipc/
 /iphone/
+/ip_login_set/
 /ips/
+/ipseek/
 /irc/
 /is/
 /isapi/
@@ -1735,6 +1807,12 @@
 /jbossas/
 /jbossws/
 /jdbc/
+/jeecms/
+/jeecms_admin/
+/jeecms_front/
+/jeecms_sys/
+/jeecms_tpl/
+/jeecore_admin/
 /~jennifer/
 /jennifer/
 /~jessica/
@@ -1760,10 +1838,12 @@
 /jp/
 /jpa/
 /jpg/
+/jquery_ui/
 /jre/
 /jrun/
 /_js/
 /js/
+/JS/
 /jsa/
 /jscript/
 /jserv/
@@ -1791,6 +1871,7 @@
 /key/
 /keygen/
 /keys/
+/keyword/
 /kfbmeditor/
 /kfuser/
 /kids/
@@ -1811,11 +1892,16 @@
 /l/
 /l888/
 /la/
+/LabelIco/
+/Lable/
 /labs/
 /land/
 /lang/
 /language/
+/Language/
+/languages/
 /large/
+/lasso/
 /lavery_Edit/
 /law/
 /layout/
@@ -1859,6 +1945,7 @@
 /list/
 /listinfo/
 /lists/
+/liststyle/
 /liuyan/
 /live/
 /LJR_Plus/
@@ -1925,6 +2012,7 @@
 /mag/
 /magazine_order/
 /magento-check.php/
+/magicline/
 /mail/
 /mailer/
 /mailing/
@@ -1987,6 +2075,7 @@
 /mdb/
 /me/
 /media/
+/Media/
 /mediawiki/
 /medium/
 /mem/
@@ -2005,6 +2094,7 @@
 /menu/
 /menus/
 /message/
+/Message/
 /messages/
 /messaging/
 /messy/
@@ -2045,6 +2135,7 @@
 /mobile/
 /mock/
 /mod/
+/model/
 /modelsearch/
 /moderator/
 /modify/
@@ -2064,6 +2155,7 @@
 /month/
 /monthly/
 /Moo-admin/
+/moono/
 /more/
 /motd/
 /move/
@@ -2091,6 +2183,7 @@
 /msmiradmin/
 /msmirdata/
 /Msmir_DownLoads/
+/msn/
 /MSOffice/
 /msql/
 /ms-sql/
@@ -2106,6 +2199,7 @@
 /mxhtml/
 /mxportal/
 /my/
+/My97DatePicker/
 /myadmin/
 /myalibabainfo/
 /mybbs/
@@ -2220,6 +2314,7 @@
 /oblog/
 /obsolete/
 /obsoleted/
+/Ocean/
 /odbc/
 /ode/
 /oeaxnew/
@@ -2228,6 +2323,7 @@
 /ofbiz/
 /office/
 /Office/
+/office2003/
 /offices/
 /officescan/
 /ofnowebeditor/
@@ -2289,11 +2385,15 @@
 /oscommerce/
 /other/
 /Other/
+/Others/
 /out/
 /outcome/
 /outgoing/
 /outline/
+/outlines/
 /output/
+/outputforflash/
+/outputxhtml/
 /outreach/
 /overview/
 /owa/
@@ -2316,6 +2416,7 @@
 /page1/
 /page_2/
 /page2/
+/pagebreak/
 /_pages/
 /pages/
 /pages2/
@@ -2340,6 +2441,7 @@
 /passwords/
 /passwordz/
 /past/
+/pastefromword/
 /patch/
 /patches/
 /path/
@@ -2384,6 +2486,7 @@
 /phones/
 /phorum/
 /photo/
+/Photo/
 /photos/
 /php/
 /php168/
@@ -2432,6 +2535,7 @@
 /pkg/
 /pkgs/
 /pl/
+/placeholder/
 /plain/
 /play/
 /Play/
@@ -2445,7 +2549,8 @@
 /plssampleadmin_/
 /plssampleadmin/
 /plssampleadmin_help/
-/plugin/
+/pluginadapters/
+/_plugins/
 /plugins/
 /plus/
 /pm/
@@ -2458,9 +2563,11 @@
 /politics/
 /poll/
 /polls/
+/pony/
 /pool/
 /pop/
 /pop3/
+/Popmenu/
 /popup/
 /porn/
 /port/
@@ -2569,6 +2676,7 @@
 /purchases/
 /purchasing/
 /push/
+/pv/
 /pw/
 /pwd/
 /pwds/
@@ -2630,9 +2738,13 @@
 /recycled/
 /Recycled/
 /recycler/
+/red/
 /redir/
 /redirect/
 /reference/
+/refererKeyword/
+/refererPage/
+/refererWebSite/
 /reg/
 /Reg/
 /register/
@@ -2705,11 +2817,13 @@
 /robot/
 /robots/
 /robots.txt/
+/role/
 /roller/
 /room/
 /~root/
 /root/
 /Root/
+/ROOT/
 /roufadmin/
 /rp_admin/
 /rpc/
@@ -2739,7 +2853,9 @@
 /sam/
 /samba/
 /saml/
+/_sample/
 /sample/
+/_samples/
 /samples/
 /san/
 /sav/
@@ -2750,6 +2866,7 @@
 /scan/
 /scanned/
 /scans/
+/scayt/
 /sched/
 /schedule/
 /scheduled/
@@ -2769,6 +2886,7 @@
 /scw/
 /sdk/
 /se/
+/sealove/
 /search/
 /search-ui/
 /sec/
@@ -2786,7 +2904,9 @@
 /SEM_User/
 /send/
 /sendmail/
+/send_queue/
 /sendto/
+/sensitivity/
 /sent/
 /serc/
 /serial/
@@ -2798,6 +2918,7 @@
 /SERVER-INF/
 /server-info/
 /servers/
+/server-scripts/
 /server_stats/
 /serverstats/
 /server-status/
@@ -2848,6 +2969,7 @@
 /shoutbox/
 /show/
 /Show/
+/showblocks/
 /showcat/
 /showenv/
 /showjobs/
@@ -2871,13 +2993,16 @@
 /signon/
 /signout/
 /signup/
+/silver/
 /SilverStream/
 /simple/
+/simplecommands/
 /sink/
 /site/
 /Site/
 /siteadmin/
 /siteAdmin/
+/site_config/
 /siteconfig/
 /site_map/
 /site-map/
@@ -2912,6 +3037,7 @@
 /smhththt/
 /smile/
 /smiles/
+/smiley/
 /smreports/
 /smreportsviewer/
 /sms/
@@ -2941,10 +3067,13 @@
 /sox/
 /sp/
 /space/
+/Space/
 /spacer/
 /spam/
 /special/
+/specialchar/
 /specials/
+/spellerpages/
 /spiqdata/
 /sponsor/
 /sponsors/
@@ -3020,6 +3149,8 @@
 /stuff/
 /style/
 /styleedit/
+/style_list/
+/style_page/
 /styles/
 /stylesheet/
 /stylesheets/
@@ -3060,6 +3191,7 @@
 /.svn/
 /svn-base/
 /swf/
+/swfupload/
 /swp/
 /sws/
 /sxadmin/
@@ -3074,6 +3206,7 @@
 /SysAdmin/
 /SysAdmins/
 /sysbackup/
+/sysimage/
 /Sys_Login/
 /sys_manage/
 /SysManage/
@@ -3097,6 +3230,9 @@
 /szwyadmin/
 /t/
 /tab/
+/table/
+/tablecommands/
+/tabletools/
 /tacforo/
 /tag/
 /tags/
@@ -3124,6 +3260,7 @@
 /tele/
 /telephone/
 /temp/
+/Temp/
 /TEMP/
 /templ/
 /template/
@@ -3161,6 +3298,7 @@
 /tgz/
 /theme/
 /themes/
+/thirdparty/
 /thnoweb/
 /thread/
 /threads/
@@ -3243,6 +3381,7 @@
 /treasury/
 /tree/
 /trees/
+/treeview/
 /trial/
 /trick/
 /tricks/
@@ -3273,6 +3412,7 @@
 /u02/
 /uaginews/
 /ubb/
+/UBB/
 /ubgzbbs/
 /uc/
 /ucenter/
@@ -3280,10 +3420,14 @@
 /uds/
 /ui/
 /UI/
+/uilanguages/
 /uk/
 /ukekadmin/
 /umts/
+/unified_user/
 /union/
+/uniqueIp/
+/uniqueVisitor/
 /unix/
 /unknown/
 /unlock/
@@ -3323,9 +3467,11 @@
 /uploadimage/
 /upload_images/
 /uploadinfo/
+/UploadPhotos/
 /uploadpic/
 /uploads/
 /UploadSoft/
+/UploadSoftPic/
 /uploadz/
 /uppic/
 /url/
@@ -3405,6 +3551,7 @@
 /vote2009/
 /voter/
 /votes/
+/vote_topic/
 /vpn/
 /_vti_bin/
 /vti_bin/
@@ -3439,7 +3586,6 @@
 /weather/
 /.web/
 /web/
-/webflow/
 /Web/
 /Web1/
 /Web2/
@@ -3482,6 +3628,7 @@
 /Web_Editor/
 /WebEditor/
 /webeditor1/
+/webflow/
 /webhome/
 /webimages/
 /webimages2/
@@ -3544,6 +3691,7 @@
 /whj/
 /whois/
 /whosonline/
+/whyGreen/
 /wicket/
 /wiki/
 /win/
@@ -3562,6 +3710,8 @@
 /wordpress/
 /work/
 /working/
+/workload/
+/works/
 /world/
 /wow/
 /wp-/
@@ -3577,6 +3727,7 @@
 /writingevl/
 /writtentest/
 /ws/
+/wsc/
 /ws-client/
 /wsdl/
 /wsdocs/
@@ -3607,6 +3758,7 @@
 /wwwthreads/
 /wwwuser/
 /wysiwyg/
+/wysiwygarea/
 /wzpzadmin/
 /x/
 /xalan/
