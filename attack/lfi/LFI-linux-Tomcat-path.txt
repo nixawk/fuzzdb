@@ -1,0 +1,15 @@
+/root/.bash_history
+/root/.bashrc
+/home/tomcat6/.bashrc
+/home/tomcat6/.bash_history
+/home/tomcat6/.bash_logout
+/home/tomcat6/.bash_profile
+/home/tomcat6/apache-tomcat-6.0.10/webapps/.bash_history
+/home/tomcat6/apache-tomcat-6.0.10/conf/web.xml
+/home/tomcat6/apache-tomcat-6.0.10/conf/tomcat-users.xml
+/home/tomcat6/apache-tomcat-6.0.10/conf/server.xml
+/home/tomcat6/apache-tomcat-6.0.10/conf/content.xml
+/home/oracle/apache-tomcat-6.0.18/.bash_history
+/usr/local/tomcat/bin/shutdown.sh
+/etc/profile
+/usr/local/tomcat6/webapps/ROOT/index.jsp

