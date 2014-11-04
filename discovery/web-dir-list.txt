@@ -187,6 +187,7 @@
 /admin-console/
 /admin_control/
 /admin_cp/
+/admincp/
 /AdminCp/
 /Admin_Cy/
 /admin_del/
@@ -287,8 +288,10 @@
 /agentes/
 /agents/
 /Agents/
+/aggregator/
 /AggreSpy/
 /ahhnewebeditor/
+/aipai/
 /ajax/
 /ajvrwebeditor/
 /akamai/
@@ -341,6 +344,7 @@
 /api/
 /API/
 /apis/
+/apkinfo/
 /_app/
 /app/
 /App_Data/
@@ -353,6 +357,7 @@
 /appliation/
 /application/
 /applications/
+/applistcenter/
 /applmgr/
 /apply/
 /apps/
@@ -478,6 +483,7 @@
 /banner01/
 /banners/
 /bar/
+/bartik/
 /base/
 /basedadmin/
 /bash/
@@ -541,6 +547,8 @@
 /black/
 /blah/
 /blank/
+/block/
+/block_test_theme/
 /blog/
 /blogdata/
 /blogDB/
@@ -589,6 +597,7 @@
 /buildr/
 /bulk/
 /bullet/
+/bus/
 /business/
 /button/
 /buttons/
@@ -777,6 +786,7 @@
 /coldfusion/
 /college/
 /College/
+/color/
 /colordialog/
 /column/
 /columns/
@@ -834,8 +844,10 @@
 /content.ie5/
 /contents/
 /contest/
+/contextual/
 /contract/
 /contracts/
+/contrib/
 /control/
 /Control/
 /controller/
@@ -896,7 +908,10 @@
 /csproj/
 /csr/
 /css/
+/css_subfolder/
+/css_test_files/
 /csv/
+/ctools/
 /cuenta/
 /cuentas/
 /currency/
@@ -928,6 +943,7 @@
 /dan/
 /dana-na/
 /darkportal/
+/dashboard/
 /dat/
 /data/
 /Data/
@@ -955,6 +971,7 @@
 /datas/
 /Data_Shop363/
 /date/
+/date_api/
 /dato/
 /datos/
 /dav/
@@ -969,6 +986,7 @@
 /dbdaadmin/
 /DBFile/
 /dblclk/
+/dblog/
 /dbman/
 /dbmodules/
 /db_picture/
@@ -1101,6 +1119,7 @@
 /drop/
 /dropped/
 /drupal/
+/Drupal/
 /dtd/
 /dtrkplus/
 /dummy/
@@ -1199,6 +1218,7 @@
 /eneya888/
 /eng/
 /engine/
+/engines/
 /english/
 /enter/
 /enterkey/
@@ -1295,6 +1315,7 @@
 /family/
 /faq/
 /faqs/
+/farbtastic/
 /favorite/
 /favorites/
 /fb/
@@ -1331,6 +1352,8 @@
 /fetch/
 /field/
 /fields/
+/field_sql_storage/
+/field_ui/
 /file:/
 /file/
 /fileadmin/
@@ -1339,6 +1362,7 @@
 /_files/
 /files/
 /files_upload/
+/filetransfer/
 /filez/
 /film/
 /filter/
@@ -1460,6 +1484,7 @@
 /gamez/
 /ganglia/
 /garbage/
+/garland/
 /gateway/
 /gb/
 /Gb/
@@ -1634,6 +1659,7 @@
 /https/
 /httpuser/
 /hu/
+/hunter/
 /hvbiadmin/
 /hvData20060309/
 /HxData/
@@ -1687,6 +1713,7 @@
 /img/
 /imgs/
 /img_shopxp/
+/img_v2/
 /imhpblog/
 /imp/
 /import/
@@ -1772,6 +1799,7 @@
 /irc/
 /is/
 /isapi/
+/isdir/
 /iso/
 /issues/
 /it/
@@ -1934,6 +1962,7 @@
 /license/
 /LICENSE/
 /licenses/
+/lieyou/
 /light/
 /limit/
 /line/
@@ -1956,6 +1985,7 @@
 /loc/
 /local/
 /Local/
+/locale/
 /localhost/
 /location/
 /locations/
@@ -2115,6 +2145,7 @@
 /migration/
 /mina/
 /mini/
+/minimal/
 /ministrator/
 /minute/
 /mirror/
@@ -2124,6 +2155,7 @@
 /mission/
 /mix/
 /mjwcadmin/
+/mkdir/
 /mkstats/
 /mlist/
 /_mmDBScripts/
@@ -2227,6 +2259,8 @@
 /ncstewebeditor/
 /ncwuforum/
 /ndcobbs/
+/neat/
+/Nested/
 /net/
 /netbasic/
 /netbsd/
@@ -2297,6 +2331,7 @@
 /nuke/
 /nul/
 /null/
+/number/
 /numreditor/
 /nurpedit/
 /nvxznew/
@@ -2359,6 +2394,7 @@
 /opencart/
 /opendir/
 /openejb/
+/openid/
 /openjpa/
 /opera/
 /operations/
@@ -2395,6 +2431,7 @@
 /outputforflash/
 /outputxhtml/
 /outreach/
+/overlay/
 /overview/
 /owa/
 /owl/
@@ -2422,6 +2459,7 @@
 /pages2/
 /pagesfile:/
 /paid/
+/paidashi/
 /panel/
 /paper/
 /paperreview/
@@ -2481,6 +2519,7 @@
 /pfpiadmin/
 /pfx/
 /pg/
+/pgsql/
 /phf/
 /phone/
 /phones/
@@ -2513,6 +2552,7 @@
 /phps/
 /phpSecurePages/
 /phpstat/
+/phptemplate/
 /phtml/
 /phy/
 /pic/
@@ -2658,6 +2698,7 @@
 /psbdadmin/
 /pscms_admin/
 /psql/
+/psr_0_test/
 /psychtest/
 /pt/
 /pub/
@@ -2697,6 +2738,7 @@
 /qpid/
 /qq/
 /qq848456042/
+/qr/
 /qryunew/
 /quarterly/
 /queries/
@@ -2741,6 +2783,7 @@
 /red/
 /redir/
 /redirect/
+/redmine/
 /reference/
 /refererKeyword/
 /refererPage/
@@ -2762,6 +2805,7 @@
 /removals/
 /remove/
 /removed/
+/rename/
 /render/
 /rendered/
 /rep/
@@ -2937,6 +2981,7 @@
 /setup/
 /setup1/
 /setup123/
+/seven/
 /sex/
 /sexy/
 /sgxldata/
@@ -2966,6 +3011,7 @@
 /shops/
 /shopxp/
 /shopxp_data/
+/shortcut/
 /shoutbox/
 /show/
 /Show/
@@ -2997,6 +3043,7 @@
 /SilverStream/
 /simple/
 /simplecommands/
+/simpletest/
 /sink/
 /site/
 /Site/
@@ -3087,6 +3134,7 @@
 /Sql/
 /SQL/
 /SqlConf/
+/sqlite/
 /sqlnet/
 /squid/
 /squirrel/
@@ -3114,8 +3162,10 @@
 /standard/
 /standards/
 /star/
+/stark/
 /start/
 /stat/
+/STAT/
 /state/
 /statement/
 /statements/
@@ -3190,6 +3240,7 @@
 /svgzforumdata/
 /.svn/
 /svn-base/
+/sw/
 /swf/
 /swfupload/
 /swp/
@@ -3207,6 +3258,7 @@
 /SysAdmins/
 /sysbackup/
 /sysimage/
+/syslog/
 /Sys_Login/
 /sys_manage/
 /SysManage/
@@ -3245,6 +3297,7 @@
 /target/
 /tar.gz/
 /tarjetas/
+/taxonomy/
 /tb/
 /tcl/
 /team/
@@ -3278,6 +3331,7 @@
 /test1234/
 /test2/
 /test3/
+/test_basetheme/
 /test-cgi/
 /test-env/
 /testimonial/
@@ -3285,6 +3339,9 @@
 /testing/
 /testno404page/
 /tests/
+/Tests/
+/test_subtheme/
+/test_theme/
 /testweb/
 /tevxdata/
 /texis/
@@ -3373,6 +3430,8 @@
 /transactions/
 /transfer/
 /transito/
+/translation/
+/translations/
 /transparent/
 /transpolar/
 /transport/
@@ -3385,6 +3444,7 @@
 /trial/
 /trick/
 /tricks/
+/trigger/
 /trnspma/
 /trrfuser/
 /true/
@@ -3430,6 +3490,7 @@
 /uniqueVisitor/
 /unix/
 /unknown/
+/unlink/
 /unlock/
 /unpaid/
 /unreg/
@@ -3443,11 +3504,14 @@
 /updated/
 /updater/
 /updates/
+/update_test_basetheme/
+/update_test_subtheme/
 /UpdDate/
 /upfile/
 /Upfile_Article.asp bbs/
 /up_files/
 /upfiles/
+/upgrade/
 /UPGRADE/
 /upimages/
 /up_img/
@@ -3476,6 +3540,7 @@
 /uppic/
 /url/
 /urls/
+/urs/
 /us/
 /usa/
 /usage/
