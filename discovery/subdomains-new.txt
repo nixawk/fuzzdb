@@ -363,6 +363,7 @@ app
 app01
 app1
 app2
+appapi
 apple
 application
 applications
@@ -2396,6 +2397,7 @@ hdm
 hdx
 he
 health
+healthapi
 healthcare
 heb
 hebei
@@ -4134,6 +4136,7 @@ newsfeed
 newsfeeds
 newsgroups
 newsletter
+newspaper
 newsroom
 newton
 newyork
@@ -7300,6 +7303,7 @@ zizhang
 zizhong
 zizhou
 zj
+zjby
 zjc
 zjg
 zjj
