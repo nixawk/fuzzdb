@@ -1,0 +1,1216 @@
+name,mark,username,password
+3COM,CoreBuilder,debug,synnet
+3COM,CoreBuilder,tech,tech
+3COM,HiPerARC,adm,(none)
+3COM,LANplex,debug,synnet
+3COM,LANplex,tech,tech
+3COM,LinkSwitch,tech,tech
+3COM,NetBuilder,,ANYCOM
+3COM,NetBuilder,,ILMI
+3COM,Netbuilder,admin,(none)
+3COM,Office Connect ISDN Routers,n/a,PASSWORD
+3COM,SuperStack II Switch,debug,synnet
+3COM,SuperStack II Switch,tech,tech
+3COM,OfficeConnect 812 ADSL,adminttd,adminttd
+3COM,Wireless AP,admin,comcomcom
+3COM,CellPlex,tech,tech
+3COM,cellplex,admin,admin
+3com,cellplex,operator,(none)
+3COM,HiPerARC,adm,(none)
+3com,3Com SuperStack 3 Switch 3300XM,security,security
+3com,superstack II,3comcso,RIP000
+3COM,LANplex,tech,(none)
+3COM,CellPlex,admin,synnet
+3com,NetBuilder,(none),admin
+3COM,SuperStack II Switch,tech,tech
+3COM,CellPlex,root,(none)
+3COM,HiPerACT,admin,(none)
+3COM,CellPlex,tech,(none)
+3COM,CellPlex,admin,admin
+3com,CellPlex,tech,tech
+3com,super,admin,(none)
+3com,cellplex,admin,admin
+3COM,SuperStack 3,admin,(none)
+3COM,SuperStack 3,monitor,monitor
+3COM,SuperStack 3,manager,manager
+3com,CellPlex,root,(none)
+3com,Netbuilder,admin,(none)
+3com,cellplex,operator,(none)
+3com,OfficeConnect 812 ADSL,admin,(none)
+3com,cellplex,admin,admin
+3com,HiPerACT,admin,(none)
+3com,3c16405,n/a,(none)
+3com,3c16405,Administrator,(none)
+3com,Switch,admin,admin
+3com,SS III Switch,recovery,recovery
+3com,OfficeConnect Wireless 11g Cable/DSL Gateway,(none),admin
+3COM,Netbuilder,Root,(none)
+3com,3C16405,admin,(none)
+3COM,3C16450,admin,(none)
+3COM,3C16406,admin,(none)
+3com,OfficeConnect 812 ADSL,admin,(none)
+3com,cellplex,n/a,(none)
+3com,cellplex,admin,admin
+3com,HiPerACT,admin,(none)
+3com,3c16405,Administrator,(none)
+3com,CellPlex,tech,(none)
+3com,Switch,admin,admin
+3com,SS III Switch,recovery,recovery
+3com,OfficeConnect Wireless 11g Cable/DSL Gateway,(none),admin
+3com,3CRADSL72 ,(none),1234admin
+3com,CB9000 / 4007,Type User: FORCE,(none)
+3com,officeconnect,n/a,(none)
+3Com,Internet Firewall,admin,password
+3com,superstack II Netbuilder,n/a,(none)
+3COM,Office Connect ISDN Routers,n/a,PASSWORD
+3M,VOL-0215 etc.,volition,volition
+Accelerated Networks,DSL CPE and DSLAM,sysadm,anicust
+ACCTON,Wirelessrouter,none,0
+accton t-online,accton,(none),0
+accton t-online,accton,(none),0
+Aceex,Modem ADSL Router,admin,(none)
+Aceex,Modem ADSL Router,admin,(none)
+ADC Kentrox,Pacesetter Router,n/a,secret
+ADIC,Scalar 100/1000,admin,secure
+ADIC,Scalar i2000,admin,password
+adtran,MX2800,n/a,adtran
+adtran,Smart 16/16e,n/a,(none)
+adtran,Atlas 800/800Plus/810Plus/550,n/a,Password
+adtran,Smart 16/16e,n/a,PASSWORD
+adtran,NxIQ,n/a,adtran
+adtran,TSU IQ/DSU IQ,n/a,(none)
+adtran,Express 5110/5200/5210,n/a,adtran
+adtran,Agent Card,n/a,ADTRAN
+adtran,TSU Router Module/L128/L768/1.5,n/a,(none)
+adtran,T3SU 300,n/a,adtran
+Alcatel,PBX,kermit,kermit
+Alcatel,PBX,dhs3mt,dhs3mt
+Alcatel,PBX,at4400,at4400
+Alcatel,PBX,mtch,mtch
+Alcatel,PBX,mtcl,mtcl
+Alcatel,PBX,root,letacla
+Alcatel,PBX,dhs3pms,dhs3pms
+Alcatel,PBX,adfexc,adfexc
+Alcatel,PBX,client,client
+Alcatel,PBX,install,llatsni
+Alcatel,PBX,halt,tlah
+Alcatel,Office 4200,n/a,1064
+Alcatel,OmniStack 6024,admin,switch
+Alcatel,Omnistack/Omniswitch,diag,switch
+Alcatel,Omnistack/omniswitch,diag,switch
+Alcatel,Timestep VPN 1520,root,permit
+Alcatel,OXO,(none),admin
+Allied,Telesyn,manager,friend
+Allied Telesyn,AT-8024(GB),n/a,admin
+Allied Telesyn,AT-8024(GB),manager,admin
+Allied Telesyn,AT Router,root,(none)
+ALLNET,T-DSL Modem,admin,admin
+Allnet,ALL0275 802.11g AP,none,admin
+Alteon,ACEDirector3,admin,(none)
+Alteon,ACEswitch,admin,admin
+Alteon,ACEswitch,admin,(none)
+Alteon,ACEswitch,admin,linga
+Alteon,AD4,admin,admin
+AMBIT,ADSL,root,(none)
+Ambit,Cable Modem 60678eu,root,root
+Ambit,Cable Modem,root,root
+Ambit,ntl:home 200,root,root
+Amitech,wireless router and access point 802.11g 802.11b,admin,admin
+Andover Controls,Infinity,acc,acc
+AOC,zenworks 4.0,n/a,admin
+APC,9606 Smart Slot,n/a,backdoor
+APC,USV Network Management Card,n/a,TENmanUFactOryPOWER 
+apc,Smartups 3000,apc,apc
+APC,UPSes (Web/SNMP Mgmt Card),device,device
+APC,Smart UPS,apc,apc
+Apple,AirPort Base Station (Graphite),(none),public
+Apple,Airport Base Station (Dual Ethernet),n/a,password
+Apple,Airport Extreme Base Station,n/a,admin
+Arescom,modem/router ,n/a,atc123
+ARtem,ComPoint - CPD-XT-b,(none),admin
+Asante,IntraSwitch,IntraSwitch,Asante
+Asante,IntraStack,IntraStack,Asante
+Asante,FM2008,superuser,(none)
+Ascend,Yurie,readonly,lucenttech2
+Ascend,Router,n/a,ascend
+Ascend,Sahara,root,ascend
+Ascom,Ascotel PBX,(none),3ascotel
+Aspect,ACD,customer,none
+Aspect,ACD,DTA,TJM
+Aspect,ACD,DTA,TJM
+Aspect,ACD,DTA,TJM
+AVAYA,g3R,root,ROOT500
+Avaya,Definity,craft,(none)
+Avaya,Cajun Pxxx,root,root
+Avaya,Cajun,diag,danger
+Avaya,Cajun,manuf,xxyyzz
+Avaya,Pxxx,diag,danger
+Avaya,Pxxx,manuf,xxyyzz
+AVAYA,Cajun P33x,n/a,admin
+Avaya,definity,craft,crftpw
+Avaya,CMS Supervisor,root,cms500
+Axis,NETCAM,root,pass
+Axis,All Axis Printserver,root,pass
+Axis,Webcams,root,pass
+Axis,540/542 Print Server,root,pass
+axis,2100,n/a,(none)
+Axis,NETCAM,root,pass
+Bay Networks,Switch,n/a,NetICs
+Bay Networks,SuperStack II,security,security
+Bay Networks,Router,User,(none)
+Bay Networks,Router,Manager,(none)
+Bay Networks,Router,User,(none)
+Bay Networks,SuperStack II,security,security
+Bay Networks,Switch,n/a,NetICs
+Belkin,F5D6130,(none),MiniAP
+Belkin,F5D7150,n/a,admin
+Billion,Bipac 5100,admin,admin
+Bintec,Bianka Routers,admin,bintec
+BinTec,Bianca/Brick,n/a,snmp-Trap
+BinTec,x1200,admin,bintec
+BinTec,x2300i,admin,bintec
+BinTec,x3200,admin,bintec
+BMC,Patrol,patrol,patrol
+BMC Software,Patrol,Administrator,the same all over
+Breezecom,Breezecom Adapters,n/a,Master
+Breezecom,Breezecom Adapters,n/a,laflaf
+Breezecom,Breezecom Adapters,n/a,Helpdesk
+Breezecom,Breezecom Adapters,n/a,Super
+Breezecom,Breezecom Adapters,n/a,Master
+Breezecom,Breezecom Adapters,n/a,laflaf
+Brocade,Fabric OS,root,fivranne
+Brocade,Silkworm,admin,password
+Brocade,Fabric OS,admin,password
+Brother,NC-3100h,(none),access
+Brother,NC-4100h,(none),access
+Brother,HL-1270n,n/a,access
+Buffalo,Wireless Broadband Base Station-g ,root,(none)
+Cabletron,Netgear modem/router and SSR,netman,(none)
+Cayman,Cayman DSL,n/a,(none)
+Celerity,Mediator,mediator,mediator
+Celerity,Mediator,root,Mau'dib
+Cellit,CCPro,cellit,cellit
+Checkpoint,SecurePlatform,admin,admin
+CipherTrust,IronMail,admin,password
+CISCO,Cache Engine,admin,diamond
+Cisco,ConfigMaker,cmaker,cmaker
+cisco,cva 122,admin,admin
+Cisco,CNR,admin,changeme
+Cisco,Netranger/secure IDS,netrangr,attack
+Cisco,BBSM,bbsd-client,changeme2
+Cisco,BBSD MSDE Client,bbsd-client,NULL
+Cisco,BBSM Administrator,Administrator,changeme
+Cisco,Netranger/secure IDS,root,attack
+Cisco,BBSM MSDE Administrator,sa,(none)
+Cisco,Catalyst 4000/5000/6000,(none),public/private/secret
+Cisco,PIX firewall,(none),cisco
+Cisco,VPN Concentrator 3000 series,admin,admin
+Cisco,Content Engine,admin,default
+cisco,3600,Administrator,admin
+Cisco,AP1200,Cisco,Cisco
+cisco,GSR,admin,admin
+Cisco,CiscoWorks 2000,guest,(none)
+Cisco,CiscoWorks 2000,admin,cisco
+Cisco,ConfigMaker,cmaker,cmaker
+Cisco-Arrowpoint,Arrowpoint,admin,system
+COM3,OLe,admin,admin
+Compaq,Insight Manager,administrator,administrator
+Compaq,Insight Manager,anonymous,(none)
+Compaq,Insight Manager,user,user
+Compaq,Insight Manager,operator,operator
+Compaq,Insight Manager,user,public
+Compaq,Insight Manager,PFCUser,240653C9467E45
+conexant,ACCESS RUNNER ADSL CONSOLE PORT  3.27,Administrator,admin
+Corecess,Corecess 3112,Administrator,admin
+cyberguard,all firewalls,cgadmin,cgadmin
+Cyclades,PR 1000,super,surt
+Cyclades,TS800,root,tslinux
+Dallas Semiconductors,TINI embedded JAVA Module,root,tini
+Datacom,BSASX/101,n/a,letmein
+Datawizard.net,FTPXQ server,anonymous,any@
+Davox,Unison,root,davox
+Davox,Unison,admin,admin
+Davox,Unison,davox,davox
+Davox,Unison,sa,(none)
+Deerfield,MDaemon,MDaemon,MServer
+Demarc,Network Monitor,admin,my_DEMARC
+Deutsche Telekom,T-Sinus DSL 130,admin,(none)
+Develcon,Orbitor Default Console,n/a,BRIDGE
+Develcon,Orbitor Default Console,n/a,password
+Dictaphone,ProLog,PBX,PBX
+Dictaphone,ProLog,NETWORK,NETWORK
+Dictaphone,ProLog,NETOP,(none)
+Digicorp,Viper,n/a,BRIDGE
+Digicorp,Viper,n/a,password
+Digicorp,Router,n/a,BRIDGE
+Digicorp,Router,n/a,password
+Dlink,DSL-500,admin,admin
+D-Link,hubs/switches,D-Link,D-Link
+D-Link,DI-704,(none),admin
+D-Link,DI-804,admin,(none)
+D-Link,DWL 900AP,(none),public
+D-Link,DI-614+,user,(none)
+D-Link,DWL-614+,admin,(none)
+D-Link,D-704P,admin,(none)
+D-link,DWL-900AP+,admin,(none)
+D-Link,DI-604,admin,(none)
+D-Link,DWL-614+,admin,(none)
+D-Link,D-704P,admin,admin
+D-Link,DWL-900+,admin,(none)
+D-Link,DI-704,n/a,admin
+D-Link,DI-604,admin,(none)
+D-Link,DI-624,admin,(none)
+D-Link,DI-624,User,(none)
+D-Link,DI-604,admin,admin
+D-Link,DWL 1000,admin,(none)
+D-Link,DI-514,user,(none)
+D-Link,DI-614+,admin,(none)
+D-Link,DWL 2100AP,admin,(none)
+D-LINK,DSL-G664T,admin,admin
+d-link,504g adsl router,admin,admin
+D-Link,DSL-302G,admin,admin
+D-Link,DI-624+,admin,admin
+D-Link,DWL-2000AP+,admin,(none)
+D-Link,DI-614+,admin,admin
+Draytek,Vigor,admin,admin
+Dynalink,RTA230,admin,admin
+Edimax,Broadband Router,admin,1234
+Edimax,EW-7205APL,guest,(none)
+Efficient,Speedstream DSL,n/a,admin
+Efficient,5871 DSL Router,login,admin
+Efficient,5851,login,password
+Efficient,Speedstream DSL,n/a,admin
+Efficient Networks,Speedstream 5711,n/a,4getme2
+Efficient Networks,EN 5861,login,admin
+Efficient Networks,5851 SDSL Router,(none),hs7mwxkk
+Elsa,LANCom Office ISDN Router,n/a,cisco
+Enterasys,ANG-1105,admin,netadmin
+Enterasys,ANG-1105,(none),netadmin
+Enterasys,Vertical Horizon,admin,(none)
+Ericsson,Ericsson Acc,netman,netman
+ericsson,md110 pabx,(none),help
+ericsson,ericsson acc,n/a,(none)
+Ericsson,Ericsson Acc,netman,netman
+Ericsson ACC,Tigris Platform,public,(none)
+E-Tech,ADSL Ethernet Router,admin,epicrouter
+E-Tech,Wireless 11Mbps Router Model:WLRT03,(none),admin
+E-Tech,Router,(none),admin
+EverFocus,PowerPlex,admin,admin
+EverFocus,PowerPlex,supervisor,supervisor
+EverFocus,PowerPlex,operator,operator
+Extreme Networks,All Switches,admin,(none)
+F5,Bigip 540,root,default
+F5-Networks,BIGIP,n/a,(none)
+Flowpoint,2200 SDSL,admin,admin
+Flowpoint,DSL,n/a,password
+Flowpoint,100 IDSN,admin,admin
+Flowpoint,40 IDSL,admin,admin
+Flowpoint,Flowpoint DSL,admin,admin
+Fortinet,Fortigate,admin,(none)
+Foundry Networks,IronView Network Manager,admin,admin
+Freetech,PC BIOS,n/a,Posterie
+Freetech,BIOS,n/a,Posterie
+Fujitsu Siemens,Routers,(none),connect
+Funk Software,Steel Belted Radius,admin,radius
+GVC,e800/rb4,Administrator,admin
+Hewlett Packard,Power Manager,admin,admin
+Hewlett-Packard,HP 2000/3000 MPE/xx,MGR,HPP187
+Hewlett-Packard,HP 2000/3000 MPE/xx,MGR,HPP189
+Hewlett-Packard,HP 2000/3000 MPE/xx,MGR,HPP196
+Hewlett-Packard,HP 2000/3000 MPE/xx,MGR,INTX3
+Hewlett-Packard,HP 2000/3000 MPE/xx,MGR,ITF3000
+Hewlett-Packard,HP 2000/3000 MPE/xx,MGR,NETBASE
+Hewlett-Packard,HP 2000/3000 MPE/xx,MGR,REGO
+Hewlett-Packard,HP 2000/3000 MPE/xx,MGR,RJE
+Hewlett-Packard,HP 2000/3000 MPE/xx,MGR,CONV
+Hewlett-Packard,HP 2000/3000 MPE/xx,OPERATOR,SYS
+Hewlett-Packard,HP 2000/3000 MPE/xx,OPERATOR,DISC
+Hewlett-Packard,HP 2000/3000 MPE/xx,OPERATOR,SYSTEM
+Hewlett-Packard,HP 2000/3000 MPE/xx,OPERATOR,SUPPORT
+Hewlett-Packard,HP 2000/3000 MPE/xx,OPERATOR,COGNOS
+Hewlett-Packard,HP 2000/3000 MPE/xx,PCUSER,SYS
+Hewlett-Packard,HP 2000/3000 MPE/xx,RSBCMON,SYS
+Hewlett-Packard,HP 2000/3000 MPE/xx,SPOOLMAN,HPOFFICE
+Hewlett-Packard,HP 2000/3000 MPE/xx,WP,HPOFFICE
+Hewlett-Packard,HP 2000/3000 MPE/xx,ADVMAIL,HPOFFICE DATA
+Hewlett-Packard,HP 2000/3000 MPE/xx,ADVMAIL,HP
+Hewlett-Packard,HP 2000/3000 MPE/xx,FIELD,SUPPORT
+Hewlett-Packard,HP 2000/3000 MPE/xx,FIELD,MGR
+Hewlett-Packard,HP 2000/3000 MPE/xx,FIELD,SERVICE
+Hewlett-Packard,HP 2000/3000 MPE/xx,FIELD,MANAGER
+Hewlett-Packard,HP 2000/3000 MPE/xx,FIELD,HPP187 SYS
+Hewlett-Packard,HP 2000/3000 MPE/xx,FIELD,LOTUS
+Hewlett-Packard,HP 2000/3000 MPE/xx,FIELD,HPWORD PUB
+Hewlett-Packard,HP 2000/3000 MPE/xx,FIELD,HPONLY
+Hewlett-Packard,HP 2000/3000 MPE/xx,HELLO,MANAGER.SYS
+Hewlett-Packard,HP 2000/3000 MPE/xx,HELLO,MGR.SYS
+Hewlett-Packard,HP 2000/3000 MPE/xx,HELLO,FIELD.SUPPORT
+Hewlett-Packard,HP 2000/3000 MPE/xx,HELLO,OP.OPERATOR
+Hewlett-Packard,HP 2000/3000 MPE/xx,MAIL,MAIL
+Hewlett-Packard,HP 2000/3000 MPE/xx,MAIL,REMOTE
+Hewlett-Packard,HP 2000/3000 MPE/xx,MAIL,TELESUP
+Hewlett-Packard,HP 2000/3000 MPE/xx,MAIL,HPOFFICE
+Hewlett-Packard,HP 2000/3000 MPE/xx,MAIL,MPE
+Hewlett-Packard,HP 2000/3000 MPE/xx,MANAGER,TCH
+Hewlett-Packard,HP 2000/3000 MPE/xx,MANAGER,SYS
+Hewlett-Packard,HP 2000/3000 MPE/xx,MANAGER,SECURITY
+Hewlett-Packard,HP 2000/3000 MPE/xx,MANAGER,ITF3000
+Hewlett-Packard,HP 2000/3000 MPE/xx,MANAGER,HPOFFICE
+Hewlett-Packard,HP 2000/3000 MPE/xx,MANAGER,COGNOS
+Hewlett-Packard,HP 2000/3000 MPE/xx,MANAGER,TELESUP
+Hewlett-Packard,HP 2000/3000 MPE/xx,MGR,SYS
+Hewlett-Packard,HP 2000/3000 MPE/xx,MGR,CAROLIAN
+Hewlett-Packard,HP 2000/3000 MPE/xx,MGR,VESOFT
+Hewlett-Packard,HP 2000/3000 MPE/xx,MGR,XLSERVER
+Hewlett-Packard,HP 2000/3000 MPE/xx,MGR,SECURITY
+Hewlett-Packard,HP 2000/3000 MPE/xx,MGR,TELESUP
+Hewlett-Packard,HP 2000/3000 MPE/xx,MGR,HPDESK
+Hewlett-Packard,HP 2000/3000 MPE/xx,MGR,CCC
+Hewlett-Packard,HP 2000/3000 MPE/xx,MGR,CNAS
+Hewlett-Packard,HP 2000/3000 MPE/xx,MGR,WORD
+Hewlett-Packard,HP 2000/3000 MPE/xx,MGR,COGNOS
+Hewlett-Packard,HP 2000/3000 MPE/xx,MGR,ROBELLE
+Hewlett-Packard,HP 2000/3000 MPE/xx,MGR,HPOFFICE
+Hewlett-Packard,HP 2000/3000 MPE/xx,MGR,HPONLY
+Hewlett-Packard,LaserJet Net Printers,(none),(none)
+Hewlett-Packard,LaserJet Net Printers,(none),(none)
+Hewlett-Packard,LaserJet Net Printers,Anonymous,(none)
+Hewlett-Packard,LaserJet Net Printers,(none),(none)
+Hewlett-Packard,webmin,admin,hp.com
+hp,sa7200,admin,admin
+hp,sa7200,admin,(none)
+IBM,Ascend OEM Routers,n/a,ascend
+IBM,A21m,n/a,(none)
+IBM,390e,n/a,admin
+ibm,a20m,n/a,admin
+IBM,TotalStorage Enterprise Server,storwatch,specialist
+IBM,8239 Token Ring HUB,n/a,R1QTPS 
+IBM,8224 HUB,vt100,public
+IBM,3534 F08 Fibre Switch,admin,password
+IBM,switch,admin,(none)
+IBM,Directory - Web Administration Tool,superadmin,secret
+IBM,Hardware Management Console,hscroot,abc123
+IMAI,Traffic Shaper,n/a,(none)
+Integral Technologies,RemoteView,Administrator,letmein
+Intel,Shiva,root,(none)
+Intel,Express 9520 Router,NICONEX,NICONEX
+Intel,Express 520T Switch,setup,setup
+intel,netstructure,admin,(none)
+Intel,Wireless AP 2011,(none),Intel
+Intel,Wireless Gateway,intel,intel
+Intel,Shiva,Guest,(none)
+Intel,Shiva,root,(none)
+Intel/Shiva,Mezza ISDN Router,admin,hello
+Intel/Shiva,Access Port,admin,hello
+Interbase,Interbase Database Server,SYSDBA,masterkey
+Intermec,Mobile LAN,intermec,intermec
+Intershop,Intershop,operator,$chwarzepumpe
+Intersystems,Cache Post-RDMS,system,sys
+intex,organizer,n/a,(none)
+iPSTAR,iPSTAR Satellite Router/Radio,admin,operator
+iPSTAR,iPSTAR Network Box,admin,operator
+JD Edwards,WorldVision/OneWorld,JDE,JDE
+JDE,WorldVision/OneWorld,PRODDTA,PRODDTA
+JDS Microprocessing,Hydra 3000,hydrasna,(none)
+Konica Minolta,magicolor 2300 DL,(none),1234
+Kyocera,EcoLink,n/a,PASSWORD
+Kyocera,Telnet Server IB-20/21,root,root
+Kyocera,Intermate LAN FS Pro 10/100,admin,admin
+LANCOM,IL11,n/a,(none)
+Lantronics,Lantronics Terminal Server,n/a,access
+Lantronics,Lantronics Terminal Server,n/a,system
+Lantronix,Lantronix Terminal,n/a,lantronix
+Lantronix,SCS1620,sysadmin,PASS
+Lantronix,SCS3200,login,access
+Lantronix,SCS400,n/a,admin
+Lantronix,SCS200,n/a,admin
+Lantronix,SCS100,n/a,access
+Lantronix,ETS4P,n/a,(none)
+Lantronix,ETS16P,n/a,(none)
+Lantronix,ETS32PR,n/a,(none)
+Lantronix,ETS422PR,n/a,(none)
+latis network,border guard,n/a,(none)
+Linksys,WAP11,n/a,(none)
+Linksys,DSL,n/a,admin
+Linksys,EtherFast Cable/DSL ROuter,Administrator,admin
+Linksys,Linksys Router DSL/Cable,(none),admin
+Linksys,BEFW11S4,admin,(none)
+Linksys,BEFSR41,(none),admin
+Linksys,WRT54G,admin,admin
+Linksys,WAG54G,admin,admin
+linksys,ap 1120,n/a,(none)
+Linksys,Linksys DSL,n/a,admin
+Livingston,IRX Router,!root,(none)
+Livingston,Livingston Portmaster 3,!root,(none)
+Livingston,Officerouter,!root,(none)
+Livingstone,Portmaster 2R,root,(none)
+Lockdown Networks,All Lockdown Products,setup,changeme(exclamation)
+longshine,isscfg,admin,0
+Lucent,B-STDX9000,(any 3 characters),cascade
+Lucent,B-STDX9000,n/a,cascade
+Lucent,B-STDX9000,n/a,cascade
+Lucent,CBX 500,(any 3 characters),cascade
+Lucent,CBX 500,n/a,cascade
+Lucent,GX 550,n/a,cascade
+Lucent,MAX-TNT,admin,Ascend
+Lucent,PSAX 1200 and below,root,ascend
+Lucent,PSAX 1250 and above,readwrite,lucenttech1
+Lucent,PSAX 1250 and above,readonly,lucenttech2
+Lucent,Anymedia,LUCENT01,UI-PSWD-01
+Lucent,Anymedia,LUCENT02,UI-PSWD-02
+Lucent,PacketStar,Administrator,(none)
+Lucent,Cellpipe 22A-BX-AR USB D,admin,AitbISP4eCiG
+LUCENT,M770,super,super
+Lucent,System 75,bciim,bciimpw
+Lucent,System 75,bcim,bcimpw
+Lucent,System 75,bcms,bcmspw
+Lucent,System 75,bcnas,bcnaspw
+Lucent,System 75,blue,bluepw
+Lucent,System 75,browse,browsepw
+Lucent,System 75,browse,looker
+Lucent,System 75,craft,craft
+Lucent,System 75,craft,craftpw
+Lucent,System 75,cust,custpw
+Lucent,System 75,enquiry,enquirypw
+Lucent,System 75,field,support
+Lucent,System 75,inads,indspw
+Lucent,System 75,inads,inads
+Lucent,System 75,init,initpw
+Lucent,System 75,locate,locatepw
+Lucent,System 75,maint,maintpw
+Lucent,System 75,maint,rwmaint
+Lucent,System 75,nms,nmspw
+Lucent,System 75,rcust,rcustpw
+Lucent,System 75,support,supportpw
+Lucent,System 75,tech,field
+Marconi,Fore ATM Switches,ami,(none)
+maxdata,ms2137,n/a,(none)
+medion,Routers,n/a,medion
+Megastar,BIOS,n/a,star
+Mentec,Micro/RSX,MICRO,RSX
+Mentec,Micro/RSX,MICRO,RSX
+MERCURY,234234,Administrator,admin
+MERCURY,KT133A/686B,Administrator,admin
+Meridian,PBX,service,smile
+Micronet,Access Point,root,default
+Micronet,Micronet SP5002,mac,(none)
+Microplex,Print Server,root,root
+microRouter,900i,n/a,letmein
+Mikrotik,Router OS,admin,(none)
+Mintel,Mintel PBX,n/a,SYSTEM
+Mintel,Mintel PBX,n/a,SYSTEM
+Mitel,3300 ICP,system,password
+Mitel,SX2000,n/a,(none)
+Motorola,Cablerouter,cablecom,router
+Motorola,WR850G,admin,motorola
+Motorola,Wireless Router,admin,motorola
+Motorola,SBG900,admin,motorola
+Motorola,Motorola Cablerouter,cablecom,router
+motorola ,vanguard,n/a,(none)
+mro software,maximo,SYSADM,sysadm
+Mutare Software,EVM Admin,(none),admin
+NAI,Intrushield IPS,admin,admin123
+NAI,Entercept,GlobalAdmin,GlobalAdmin
+NEC,WARPSTAR-BaseStation,n/a,(none)
+Netcomm,NB1300,admin,password
+Netgea,FR314,admin,password
+NetGear,RM356,(none),1234
+Netgear,MR-314,admin,1234
+Netgear,RT314,admin,admin
+Netgear,RP614,admin,password
+Netgear,RP114,(none),1234
+Netgear,WG602,super,5777364
+Netgear,WG602,superman,21241036
+Netgear,WG602,super,5777364
+Netgear,MR814,admin,password
+Netgear,FVS318,admin,password
+Netgear,DM602,admin,password
+netgear,FM114P,n/a,(none)
+NetGear,WGT624,admin,password
+Netgear,FR114P,admin,password
+Netgear,ME102 ,(none),private
+Netgear,WGR614,admin,password
+Netgear,RP114,admin,1234
+NetGenesis,NetAnalysis Web Reporting,naadmin,naadmin
+Netopia,Netopia 9500,netopia,netopia
+Netopia,R910,admin,(none)
+Netopia,3351,n/a,(none)
+Netopia,4542,admin,noway
+Netopia,Netopia 7100,(none),(none)
+Netopia,Netopia 9500,netopia,netopia
+Netport,Express 10/100,setup,setup
+Netscreen,Firewall,netscreen,netscreen
+netscreen,firewall,Administrator,(none)
+netscreen,firewall,admin,(none)
+netscreen,firewall,operator,(none)
+netscreen,firewall,Administrator,(none)
+Netstar,Netpilot,admin,password
+Network Appliance,NetCache,admin,NetCache
+Network Associates,WebShield Security Appliance e500,e500,e500changeme
+Network Associates,WebShield Security Appliance e250,e250,e250changeme
+NGSec,NGSecureWeb,admin,(none)
+NGSec,NGSecureWeb,admin,asd
+Niksun,NetDetector,vcr,NetVCR
+Nimble,PC BIOS,n/a,xdfk9874t3
+Nimble,BIOS,n/a,xdfk9874t3
+Nokia,DSL Router M1122,m1122,m1122
+Nokia,MW1122,telecom,telecom
+Nortel,Meridian Link,disttech,4tas
+Nortel,Meridian Link,maint,maint
+Nortel,Meridian Link,mlusr,mlusr
+Nortel,Remote Office 9150,admin,root
+Nortel,Accelar (Passport) 1000 series routing switches,l2,l2
+Nortel,Accelar (Passport) 1000 series routing switches,l3,l3
+Nortel,Accelar (Passport) 1000 series routing switches,ro,ro
+Nortel,Accelar (Passport) 1000 series routing switches,rw,rw
+Nortel,Accelar (Passport) 1000 series routing switches,rwa,rwa
+Nortel,Extranet Switches,admin,setup
+Nortel,Baystack 350-24T,n/a,secure
+Nortel,Meridian PBX,login,0
+Nortel,Meridian PBX,login,1111
+Nortel,Meridian PBX,login,8429
+Nortel,Meridian PBX,spcl,0
+Nortel,Meridian MAX,service,smile
+Nortel,Meridian MAX,root,3ep5w2u
+Nortel,Matra 6501 PBX,(none),0
+Nortel,Meridian MAX,maint,ntacdmax
+Nortel,Meridian CCR,service,smile
+Nortel,Meridian CCR,disttech,4tas
+Nortel,Meridian CCR,maint,maint
+Nortel,Meridian CCR,ccrusr,ccrusr
+Nortel,Meridian,n/a,(none)
+Nortel,Meridian Link,service,smile
+Nortel,Contivity,admin,setup
+nortel,dms,n/a,(none)
+Nortel,Business Communications Manager,supervisor,PlsChgMe
+Nortel,Phone System,n/a,266344
+Nortel,Norstar,266344,266344
+nortel,p8600,n/a,(none)
+olitec,sx 200 adsl modem router,admin,adslolitec
+Omnitronix,Data-Link,(none),SUPER
+Omnitronix,Data-Link,(none),SMDR
+OMRON,MR104FH,n/a,(none)
+OpenConnect,OC://WebConnect Pro,admin,OCS
+OpenConnect,OC://WebConnect Pro,adminstat,OCS
+OpenConnect,OC://WebConnect Pro,adminview,OCS
+OpenConnect,OC://WebConnect Pro,adminuser,OCS
+OpenConnect,OC://WebConnect Pro,adminview,OCS
+OpenConnect,OC://WebConnect Pro,helpdesk,OCS
+Openwave,WAP Gateway,sys,uplink
+Openwave,MSP,cac_admin,cacadmin
+Osicom,NETPrint,Manager,Manager
+Osicom,NETPrint and JETX Print,sysadm,sysadm
+Osicom,Osicom Plus T1/PLUS 56k,write,private
+Osicom,NETCommuter,d.e.b.u.g,User
+Osicom,NETCommuter,echo,User
+Osicom,NETCommuter,guest,User
+Osicom,NETCommuter,Manager,Admin
+Osicom,NETCommuter,sysadm,Admin
+Osicom,Osicom Plus T1/PLUS 56k,write,private
+Osicom,NETCommuter Remote Access Server,sysadm,sysadm
+Osicom,JETXPrint,sysadm,sysadm
+Osicom,JETXPrint,sysadm,sysadm
+Osicom,JETXPrint,sysadm,sysadm
+Osicom,JETXPrint,sysadm,sysadm
+Osicom,NETPrint,1500, and 2000 Series
+Pacific Micro Data,MAST 9500 Universal Disk Array,pmd,(none)
+Panasonic,CF-28,n/a,(none)
+panasonic,cf 27,n/a,(none)
+Panasonic,CF-45,n/a,(none)
+penril datability,vcp300 terminal server,n/a,system
+PentaSafe,VigilEnt Security Manager,PSEAdmin,$secure$
+Perle,CS9000,admin,superuser
+Pirelli,Pirelli Router,admin,mu
+Pirelli,Pirelli Router,admin,microbusiness
+Pirelli,Pirelli Router,user,password
+Planet,WAP-1900/1950/2000,(none),default
+planet,Akcess Point,admin,admin
+Polycom,Soundpoint VoIP phones,Polycom,SpIp
+Polycom,ViewStation 4000,(none),admin
+Polycom,iPower 9000,(none),(none)
+Prestigio,Nobile,n/a,(none)
+Psion Teklogix,9150,support,h179350
+Pyramid Computer,BenHur,admin,admin
+Radware,Linkproof,lp,lp
+Radware,Linkproof,radware,radware
+Raidzone,raid arrays,n/a,raidzone
+Ramp Networks,WebRamp,wradmin,trancell
+Ramp Networks,WebRamp,wradmin,trancell
+RedHat,Redhat 6.2,piranha,q
+RedHat,Redhat 6.2,piranha,piranha
+Research,PC BIOS,n/a,Col2ogro2
+Research,BIOS,n/a,Col2ogro2
+Ricoh,Aficio,sysadmin,password
+RM,RM Connect,setup,changeme
+RM,RM Connect,teacher,password
+RM,RM Connect,temp1,password
+RM,RM Connect,admin,rmnetlm
+RM,RM Connect,admin2,changeme
+RM,RM Connect,adminstrator,changeme
+RM,RM Connect,deskalt,password
+RM,RM Connect,deskman,changeme
+RM,RM Connect,desknorm,password
+RM,RM Connect,deskres,password
+RM,RM Connect,guest,(none)
+RM,RM Connect,replicator,replicator
+RM,RM Connect,RMUser1,password
+RM,RM Connect,topicalt,password
+RM,RM Connect,topicnorm,password
+RM,RM Connect,topicres,password
+RoamAbout,RoamAbout R2 Wireless Access Platform,admin,password
+sagem,fast 1400w,root,1234
+samsung,n620,n/a,(none)
+Samsung,MagicLAN SWL-3500RG,public,public
+Senao,2611CB3+D (802.11b Wireless AP),admin,(none)
+Server Technology,Sentry Remote Power Manager,GEN1,gen1
+Server Technology,Sentry Remote Power Manager,GEN2,gen2
+Server Technology,Sentry Remote Power Manager,ADMN,admn
+sharp,AR-407/S402 ,n/a,(none)
+Siemens,ROLM PBX,eng,engineer
+Siemens,ROLM PBX,op,op
+Siemens,ROLM PBX,op,operator
+siemens,hipath,n/a,(none)
+Siemens,ROLM PBX,su,super
+Siemens,PhoneMail,poll,tech
+Siemens,PhoneMail,sysadmin,sysadmin
+Siemens,ROLM PBX,admin,pwp
+Siemens,PhoneMail,tech,tech
+SIEMENS,SE515,admin,n/a
+Siemens,5940 T1E1 Router,superuser,admin
+Siemens,PhoneMail,poll,tech
+Siemens,PhoneMail,sysadmin,sysadmin
+Siemens,PhoneMail,tech,tech
+Siemens,ROLM PBX,admin,pwp
+Siemens,ROLM PBX,eng,engineer
+Siemens,ROLM PBX,op,op
+Siemens,ROLM PBX,op,operator
+Siemens,ROLM PBX,su,super
+Siemens Nixdorf,PC BIOS,n/a,SKY_FOX
+Siemens Nixdorf,BIOS,n/a,SKY_FOX
+Siemens Pro C5,Siemens,n/a,(none)
+Siips,Trojan,Administrator,ganteng
+silex technology,PRICOM (Printserver),root,(none)
+sitara,qosworks,root,(none)
+Sitecom,All WiFi routers,(none),sitecom
+SmartSwitch,Router 250 ssr2500,admin,(none)
+SMC,Barricade 7004 AWBR,admin,(none)
+SMC,Router,admin,admin
+SMC,SMC broadband router,admin,admin
+SMC,SMC2804WBR,(none),smcadmin
+SMC,WiFi Router,n/a,smcadmin
+SMC,SMB2804WBR,Administrator,smcadmin
+SMC,7401BRA,admin,barricade
+SMC,7401BRA,smc,smcadmin
+SMC,Barricade7204BRB,admin,smcadmin
+SMC,2804wr,(none),smcadmin
+Snapgear,Pro,1.79,Multi
+Solution 6,Viztopia Accounts,aaa,often blank
+SonicWALL,ALL,admin,password
+SOPHIA (Schweiz) AG,Protector,admin,Protector
+SOPHIA (Schweiz) AG,Protector,root,root
+Speedstream,5861 SMT Router,admin,admin
+Speedstream,5871 IDSL Router,admin,admin
+Speedstream,Router 250 ssr250,admin,admin
+Speedstream,DSL,admin,admin
+Speedstream,5667,(none),admin
+SpeedStream,5660,n/a,adminttd
+SpeedXess,HASE-120,(none),speedxess
+Spike,CPE,enable,(none)
+Sun,JavaWebServer,admin,admin
+Symbol,Spectrum,n/a,Symbol
+TANDBERG,TANDBERG,(none),TANDBERG
+T-Comfort,Routers,Administrator,(none)
+Team Xodus,XeniumOS,xbox,xbox
+Teklogix,Accesspoint,Administrator,(none)
+Teledat,Routers,admin,1234
+Teletronics,WL-CPE-Router,admin,1234
+Telewell,TW-EA200,admin,password
+Telindus,1124,n/a,(none)
+Telindus,SHDSL1421,admin,admin
+Tellabs,Titan 5500,tellabs,tellabs#1
+Tellabs,7120,root,admin_1
+Tiara,1400,tiara,tiaranet
+Troy,ExtendNet 100zx,admin,extendnet
+TVT System,Expresse G5,craft,(none)
+TVT System,Expresse G5 DS1 Module,(none),enter
+UNEX,Routers,n/a,password
+Unisys,ClearPath MCP,NAU,NAU
+Unisys,ClearPath MCP,ADMINISTRATOR,ADMINISTRATOR
+Unisys,ClearPath MCP,HTTP,HTTP
+US Robotics,USR8000,root,admin
+US Robotics,USR8550,Any,12345
+US ROBOTICS,ADSL Ethernet Modem,(none),12345
+US Robotics,SureConnect ADSL ,support,support
+us21100060,hp omibook 6100,n/a,(none)
+VASCO,VACMAN Middleware,admin,(none)
+Verifone,Verifone Junior ,(none),166816
+Verilink,NE6100-4 NetEngine,(none),(none)
+Visual Networks,Visual Uptime T1 CSU/DSU,admin,visual
+Watch guard,firebox 1000,admin,(none)
+Watchguard,SOHO and SOHO6,user,pass
+westell,2200,admin,password
+Westell,Versalink 327,admin,(none)
+Wyse,Winterm,root,wyse
+Wyse,Winterm,VNC,winterm
+Wyse,Winterm,(none),Fireport
+Wyse,winterm,root,(none)
+Wyse,rapport,rapport,r@p8p0r+
+Xavi,7000-ABA-ST1,n/a,(none)
+Xavi,7001,n/a,(none)
+xd,xdd,xd,xd
+Xerox,Multi Function Equipment,admin,2222
+Xerox,WorkCenter Pro 428,admin,admin
+xerox,xerox,admin,admin
+xerox,xerox,n/a,admin
+Xerox,Document Centre 425,admin,(none)
+xerox,work centre pro 35,admin,1111
+X-Micro,X-Micro WLAN 11b Broadband Router,super,super
+X-Micro,X-Micro WLAN 11b Broadband Router,1502,1502
+X-Micro,WLAN 11b Access Point,super,super
+Xylan,Omniswitch,admin,switch
+Xylan,Omniswitch,diag,switch
+Xylan,omniswitch,admin,switch
+Xyplex,Routers,n/a,system
+Xyplex,Terminal Server,n/a,access
+Xyplex,Terminal Server,n/a,system
+Xyplex,Routers,n/a,access
+xyplex,switch,n/a,(none)
+Xyplex,Routers,n/a,access
+Xyplex,Terminal Server,n/a,access
+Xyplex,Terminal Server,n/a,system
+Yakumo,Routers,admin,admin
+Zcom,Wireless,root,admin
+ZOOM,ZOOM ADSL Modem,admin,zoomadsl
+ZyXEL,Prestige,n/a,1234
+ZyXEL,Prestige,root,1234
+ZyXEL,Prestige,(none),1234
+ZyXEL,Prestige 643,(none),1234
+ZyXEL,Prestige 652HW-31 ADSL Router,admin,1234
+ZyXEL,Prestige 100IH,n/a,1234
+Zyxel,ZyWall 2,n/a,(none)
+Zyxel,adsl routers,admin,1234
+ZyXEL,Prestige 650,1234,1234
+Deutsch Telekomm,T-Sinus 130 DSL,(none),0
+inchon,inchon,admin,admin
+Benq,awl 700 wireless router,admin,admin
+Konica/ Minolta,Di 2010f,n/a,0
+Sybase,EAServer,jagadmin,(none)
+Logitech,Logitech Mobile Headset,(none),0
+Cisco,Ciso Aironet 1100 series,(none),Cisco
+HP,ISEE,admin,isee
+IBM,3583 Tape Library,admin,secure
+Asus,wl503g,admin,admin
+Asus,wl500,admin,admin
+Asus,wl300,admin,admin
+Sigma,Sigmacoma IPshare,admin,admin
+Ricoh,Aficio 2228c,sysadmin,password
+Linksys,WAP54G,(none),admin
+Westell,Wirespeed,admin,password
+Konica Minolta,magicolor 2430DL,(none),(none)
+KTI,KS-2260,superuser,123456
+Oracle,Oracle RDBMS,system/manager,sys/change_on_install
+Infosmart,SOHO router,admin,0
+Pansonic,KXTD1232,admin,1234
+Areca,RAID controllers,admin,0
+Avaya,Definity,dadmin,dadmin01
+Allied Telesyn,ALAT8326GB,manager,manager
+Sun,Cobalt,admin,admin
+iblitzz,BWA711/All Models,admin,admin
+Netgear,dg834g,admin,password
+E-Con,Econ DSL Router,admin,epicrouter
+Allied Telesyn,AT8016F,manager,friend
+Dell,Laser Printer 3000cn / 3100cn,admin,password
+Sonic-X,SonicAnime,root,admin
+Siemens,SpeedStream 4100,admin,hagpolm1
+Wanadoo,Livebox,admin,admin
+Pirelli,Pirelli AGE-SB,admin,smallbusiness
+McData,FC Switches/Directors,Administrator,password
+BBR-4MG and BBR-4HG,BUFFALO,root,n/a
+Swissvoice, IP 10S,target,password
+creative,2015U,n/a,(none)
+Tandberg Data,DLT8000 Autoloader 10x,n/a,10023
+IBM,Infoprint 6700,root,(none)
+ASUS,WL-500G,admin,admin
+Phoenix v1.14,Phoenix v1.14,Administrator,admin
+asus,WL500g,admin,admin
+Symbol,AP-2412,n/a,Symbol
+Symbol,AP-3020,n/a,Symbol
+Symbol,AP-4111,n/a,Symbol
+Symbol,AP-4121,n/a,Symbol
+Symbol,AP-4131,n/a,Symbol
+telindus,telindus,admin,admin
+us robotic ,adsl gateway wireless router,support,support
+D-Link,Dsl-300g+,(none),private
+D-Link,DSL-300g+,admin,admin
+Billion,BIPAC-640 AC,(none),(none)
+Blue Coat Systems,ProxySG,admin,articon
+KTI,KS2600,admin,123456
+KTI,KS2260,admin,123
+Exabyte,Magnum20,anonymous,Exabyte
+Sorenson,SR-200,(none),admin
+D-Link,DI-524,admin,(none)
+McAfee,SCM 3100,scmadmin,scmchangeme
+Zebra,10/100 Print Server,admin,1234
+apple,airport5,root,admin
+Xerox,DocuCentre 425,admin,22222
+NOKIA,7360,(none),9999
+Advantek Networks,Wireless LAN 802.11 g/b,admin,(none)
+ZyXEL,Prestige 900,webadmin,1234
+LG,Aria iPECS,(none),jannie
+Corecess,6808 APC,corecess,corecess
+NRG or RICOH,DSc338 Printer,(none),password
+Xerox,Document Centre 405,admin,admin
+Proxim,Orinoco 600/2000,(none),(none)
+SMC,Router/Modem,admin,barricade
+Netgear,Router/Modem,admin,password
+Nullsoft,Shoutcast,admin,changeme
+Conexant,Router,n/a,epicrouter
+Network Everywhere,NWR11B,(none),admin
+Netgear,MR314,admin,1234
+Aethra,Starbridge EU,admin,password
+Milan,mil-sm801p,root,root
+cisco,2600,Administrator,admin
+giga,8ippro1000,Administrator,admin
+Netgear,GSM7224,admin,(none)
+Gericom,Phoenix,Administrator,(none)
+Bausch Datacom,Proxima PRI ADSL PSTN Router4 Wireless,admin,epicrouter
+Sun Microsystems,ILOM of X4100,root,changeme
+dlink,adsl,admin,admin
+Conexant,Router,n/a,admin
+Edimax,ES-5224RXM,admin,123
+IronPort,Messaging Gateway Appliance,admin,ironport
+3c om,812,Administrator,admin
+Asante,FM2008,admin,asante
+Broadlogic,XLT router,webadmin,webadmin
+Broadlogic,XLT router,admin,admin
+Broadlogic,XLT router,installer,installer
+Cisco,Aironet,(none),_Cisco
+Cisco,Aironet,Cisco,Cisco
+Cisco,HSE,root,blender
+Cisco,HSE,hsa,hsadb
+Cisco,WLSE,root,blender
+Cisco,WLSE,wlse,wlsedb
+Digicom,Michelangelo,admin,michelangelo
+Digicom,Michelangelo,user,password
+Enterasys,Vertical Horizon,tiger,tiger123
+Pentaoffice,Sat Router,(none),pento
+Pirelli,AGE ADSL Router,admin,microbusiness
+Pirelli,AGE ADSL Router,user,password
+System/32,VOS,install,secret
+Tandem,TACL,super.super,(none)
+Tandem,TACL,super.super,master
+VxWorks,misc,admin,admin
+VxWorks,misc,guest,guest
+Wang,Wang,CSG,SESAME
+Westell,Wang,CSG,SESAME
+Westell,Wirespeed wireless router,admin,sysAdmin
+3COM,CoreBuilder,n/a,admin
+CNET,CNET 4PORT ADSL MODEM,admin,epicrouter
+SMC, SMCWBR14-G,(none),smcadmin
+asmack,router,admin,epicrouter
+JAHT,adsl router,admin,epicrouter
+D-Link,firewall,admin,admin
+ovislink,WL-1120AP,root,(none)
+Linksys,WRT54G,(none),admin
+canyon,router,Administrator,admin
+3COM,CoreBuilder,n/a,(none)
+Kalatel,Calibur DSR-2000e,n/a,3477
+Kalatel,Calibur DSR-2000e,n/a,8111
+IBM,T20,n/a,admin
+3com,officeconnect ,admin,(none)
+3com,office connect ,admin,(none)
+Asus,WL500g Deluxe,admin,admin
+IBM,IBM,n/a,(none)
+Pentagram,Cerberus ADSL modem + router,admin,password
+SMC,Modem/Router,cusadmin,highspeed
+ihoi,oihoh,Administrator,pilou
+corecess,3113,admin,(none)
+AXUS,AXUS YOTTA,n/a,0
+D-link,DSL500G,admin,admin
+Asus,P5P800,n/a,admin
+Dell,Remote Access Card,root,calvin
+d-link,di-524,admin,(none)
+ion,nelu,n/a,admin
+ion,nelu,Administrator,admin
+D-link,DSL-504T,admin,admin
+Planet,ADE-4110,admin,epicrouter
+Planet,XRT-401D,admin,1234
+ASMAX,AR701u / ASMAX AR6024,admin,epicrouter
+ASMAX,AR800C2,admin,epicrouter
+ASMAX,AR800C2,admin,epicrouter
+D-link,DSL-G604T,admin,admin
+Cisco,Aironet 1200,root,Cisco
+D-link,Di-707p router,admin,(none)
+Linksys,model WRT54GC compact wireless-G broadband router,(none),admin
+Minolta QMS,Magicolor 3100,operator,(none)
+IBM,Remote Supervisor Adapter (RSA),USERID,PASSW0RD
+IBM,BladeCenter Mgmt Console,USERID,PASSW0RD
+Draytek,Vigor 2600,admin,(none)
+LG,LAM200E / LAM200R,admin,epicrouter
+Linksys,AG 241 - ADSL2 Gateway with 4-Port Switch,admin,admin
+Micronet,3351 / 3354,admin,epicrouter
+Planet,ADE-4000,admin,epicrouter
+SAGEM,FAST 1400,admin,epicrouter
+SMC,7204BRA,smc,smcadmin
+U.S. Robotics,SureConnect 9003 ADSL Ethernet/USB Router,root,12345
+U.S. Robotics,SureConnect 9105 ADSL 4-Port Router,admin,admin
+3COM,OfficeConnect ADSL Wireless 11g Firewall Router,(none),admin
+ZyXEL,Prestige 645,admin,1234
+olitec (Trendchip),sx 202 adsl modem router,admin,admin
+Entrust,getAccess,websecadm,changeme
+Cable And Wireless,ADSL Modem/Router,admin,1234
+Telco Systems,Edge Link 100,telco,telco
+ZyXEL ZyWALL Series,Prestige 660R-61C,n/a,admin
+DI624,D-LINK,admin,password
+SMC,SMCWBR14-G,n/a,smcadmin
+Ricoh,Aficio AP3800C,(none),password
+Wyse,Winterm 3150,n/a,password
+Ricoh,Aficio 2232C,n/a,password
+edimax,wireless adsl router,admin,epicrouter
+Deutsche Telekom,T-Sinus 154 DSL,(none),0
+Asmax,Ar-804u,admin,epicrouter
+aztech,DSL-600E,admin,admin
+comtrend,ct536+,admin,(none)
+Quintum Technologies Inc.,Tenor Series,admin,admin
+Alcatel,OmniPCX Office,ftp_inst,pbxk1064
+Alcatel,OmniPCX Office,ftp_admi,kilo1987
+Alcatel,OmniPCX Office,ftp_oper,help1954
+Alcatel,OmniPCX Office,ftp_nmc,tuxalize
+Netgear,ADSL Modem DG632,admin,password
+Allied Telesyn,AT-AR130 (U) -10,Manager,friend
+Mikrotik,Router OS,admin,(none)
+Netgear,WGT634U,admin,password
+D-Link,DI-524,user,(none)
+Ricoh,AP410N,admin,(none)
+3ware,3DM,Administrator,3ware
+Netgear,FWG114P,n/a,admin
+ALCATEL,4400,mtcl,(none)
+Netgear,GS724t,n/a,password
+CTC Union,ATU-R130,root,root
+3Com,Shark Fin,User,Password
+Scientific Atlanta,DPX2100,admin,w2402
+Terayon,Unknown,(none),(none)
+Terayon,Unknown,(none),(none)
+Linksys,Comcast,comcast,1234
+NetGear,Comcast,comcast,1234
+Zyxel,Prestige 660HW,admin,admin
+Atlantis,A02-RA141,admin,atlantis
+Atlantis,I-Storm Lan Router ADSL ,admin,atlantis
+Linksys,WAG54GS,admin,admin
+IBM,T42,Administrator,admin
+Huawei,MT880r,TMAR#HWMT8007079,(none)
+OKI,C5700,root,the 6 last digit of the MAC adress
+Sagem,F@st 1200 (Fast 1200),root,1234
+Minolta QMS,Magicolor 3100,admin,(none)
+Ricoh,Aficio 2020D,admin,password
+Juniper,ISG2000,netscreen,netscreen
+Linksys/ Cisco,RTP300 w/2 phone ports,admin,admin
+Linksys/ Cisco,RTP300 w/2 phone ports,user,tivonpw
+samsung,modem/router,admin,password
+mediatrix 2102,mediatrix 2102,admin,1234
+Draytek,Vigor 2900+,admin,admin
+smc,smc 7904BRA,(none),smcadmin
+DLINK,604,n/a,admin
+ZyXel,Prestige P660HW,admin,1234
+topsec,firewall,superman,talent
+US Robotics,USR9110,admin,(none)
+CNET,CSH-2400W,admin,1234
+Psionteklogix,9160,admin,admin
+AirTies RT-210,AirTies RT-210,admin,admin
+Siemens,SE560dsl,admin,admin
+Psionteklogix,9160,admin,admin
+Netgear,WG602,admin,password
+SSA,BPCS,SSA,SSA
+Minolta PagrPro,QMS 4100GN PagePro,n/a,sysadm
+Secure Computing,Webwasher,admin,(none)
+Cisco,CallManager,admin,admin
+Cisco,WSLE,wlseuser,wlsepassword
+Cisco,WLSE,enable,(none)
+Netgear,CG814CCR,cusadmin,highspeed
+Brother,NC-2100p,(none),access
+Signamax,065-7726S,admin,admin
+Panasonic,PBX TDA 100/200/400,(none),1234
+Zyxel,Router,(none),1234
+Huawei,mt820,admin,admin
+Irongate,NetSurvibox 266,admin,NetSurvibox
+netgear,sc101,admin,password
+Bluecoat,ProxySG (all model),admin,admin
+SMC,smc7904wbrb,(none),smcadmin
+SMC,SMC7004VBR,n/a,smcadmin
+Symbol,CB3000,admin,symbol
+Xerox,240a,admin,x-admin
+Ericsson,MD110,MD110,help
+Ericsson,BP250,admin,default
+Cisco,Cisco Wireless Location Appliance,root,password
+Topcom,Wireless Webr@cer 1154+ PSTN (Annex A),admin,admin
+Topcom,Wireless Webr@cer 1154+ PSTN (Annex A),admin,admin
+Topcom,Wireless Webr@cer 1154+ PSTN (Annex A),admin,admin
+Sercom,IP806GA,admin,admin
+Sercom,IP806GB,admin,admin
+draytek,Vigor3300 series,draytek,1234
+netgear,DG834GT,admin,Password
+d-link,ads500g,admin,admin
+Konica Minolta,magicolor 5430 DL,admin,administrator
+planet,akcess point,admin,admin
+Sharp,AR-M355N  ,admin,Sharp
+Sharp,MX-3501n,Administrator,admin
+3com,LANplex,n/a,admin
+Cisco,MeetingPlace,technician,2 + last 4 of Audio Server chasis Serial case-sensitive + 561384
+cuproplus,bus,n/a,(none)
+wline,w3000g,admin,1234
+Tandberg,6000MXP,Admin,(none)
+hp,2300,admin,admin
+Actiontec,Wireless Broadband Router,admin,password
+D-Link,DI-634M,admin,(none)
+Silvercrest,WR-6640Sg,admin,admin
+Deutsche Telekom,T-Sinus 1054 DSL,(none),0
+Netgear,FVS114,admin,password
+Nokia,M1921,(none),nokai
+Nokia,ADSL router M1921,(none),nokia
+Siemens,Speedstream SS2614,n/a,admin
+TrendNET,TEW-435BRM,admin,password
+Netgear,RO318,admin,1234
+ZTE,ZXDSL 831,ADSL,expert03
+Alcatel,7300 ASAM,SUPERUSER,ANS#150
+Shoretel,ALL,admin,changeme
+stratacom,all,stratacom,stratauser
+Toshiba,E-Studio 3511c,Admin,123456
+Xerox,WorkCentre 7132,11111,x-admin
+Sharp,AL-1655CS,admin,Sharp
+3Com,3CRWDR100A-72,admin,1234admin
+Juniper,Netscreen,serial#,serial#
+Cisco,ONS,CISCO15,otbu+1
+Telewell,TW-EA501,admin,admin
+NOMADIX,AG5000,admin,(none)
+Mediatrix,MDD 2400/2600,administrator,(none)
+Dell,2161DS Console Switch,Admin,(none)
+digicom,Wavegate 54C,Admin,(none)
+Siemens,Hipath,31994,31994
+Sparklan,Wx-6215 D and G,admin,admin
+Applied Innovations,AIscout,scout,scout
+Planet,WAP 4000,admin,admin
+fon,La fonera,admin,admin
+Lanier,Digital Imager,admin,(none)
+Netgear,WGT624,Gearguy,Geardog
+Dell,PowerConnect 2724,admin,(none)
+D-Link,DI-524,Alphanetworks,wrgg15_di524
+DIGICOM,Michelangelo Wave108,root,admin
+US Robotics,USR9106,admin,admin
+SpeedStream 5200-Serie,SpeedStream,Administrator,admin
+Siemens,Gigaset,(none),0
+Comtrend,ct-536+,admin,admin
+Comtrend,ct-536+,admin,1234
+2wire,wifi routers,none,Wireless
+Sphairon,(Versatel WLAN-Router),admin,passwort
+HP,MSL Series Libraries,Factory,56789
+Overland,NEO Series Libraries,Factory,56789
+OKI,6120e and 421n,admin,OkiLAN
+siemen,speedstream 5400,admin,(none)
+Various,DD-WRT,root,admin
+Aztecj,DSL 600EU,root,admin
+Aztecj,DSL 600EU,isp,isp
+Linksys,rv082,admin,(none)
+AVAYA,P333,Administrator,ggdaseuaimhrke
+AVAYA,P333,root,ggdaseuaimhrke
+Infoblox,INFOBLOX Appliance,admin,(none)
+Avocent,Cyclade,root,tslinux
+EMC,DS-4100B,admin,(none)
+Citel,Handset Gateway,citel,password
+Citel,Handset Gateway,(none),citel
+Grandstream,GXP-2000,admin,1234
+SysMaster,M10,admin,12345
+pfSense,pfSense Firewall,admin,pfsense
+ASUS,ASUS WL-330 Pocket Wireless Access Point,admin,admin
+Planex,BRL-04UR,admin,0
+maxdata,7000x,n/a,(none)
+Conceptronic,C54BRS4,admin,1234
+OPEN Networks,812L,root,0P3N
+Thomson,Wireless Cable Gateway,(none),admin
+Thomson,SpeedTouch AP,n/a,admin
+KASDA,KD318-MUI,admin,adslroot
+Intracom,jetSpeed,admin,admin
+cisco,2600 router,cisco,(none)
+Edimax,EW-7206APG,admin,1234
+SMC,SMCWBR14-G,(none),smcadmin
+ASUS,ASUS SMTA Router,admin,admin
+linksys,wrt54g,admin,admin
+Addon,GWAR3000/ARM8100,admin,admin
+ ZyXeL, 660HW,admin,(none)
+Netgear,Wifi Router,admin,password
+Apache,Tomcat Web Server Administration Tool,admin,(none)
+Sitecom,WL-0xx up to WL-17x,admin,admin
+greatspeed,DSL,netadmin,nimdaten
+Nokia,M1122,(none),Telecom
+Nortel,VPN Gateway,admin,admin
+Fortinet,Fortigate,maintainer,bcpb+serial#
+Fortinet,Fortigate,maintainer,admin
+Crossbeam,COS / XOS,(none),x40rocks
+Edimax,Edimax Fast Ethernet Switch,admin,password
+Prolink,H9000 Series,admin,password
+netgear,dg834,n/a,admin
+Brother,MFC-420CN,n/a,access
+D-Link,DWL-G730AP,admin,(none)
+Fujitsu Siemens,Fibre Channel SAN storage FX 60,manage,!manage
+Fujitsu Siemens,Fibre Channel SAN storage FX 60,manage,!manage
+Spectra Logic,64000 Gator,administrator,(none)
+Spectra Logic,64000 Gator,operator,(none)
+HP,t5000 Thin Client series,Administrator,admin
+Huawei,MT880,admin,admin
+ATL,P1000,operator,1234
+ATL,P1000,Service,5678
+Topcom,Skyr@cer Pro AP 554,admin,admin
+Netgear,FSM7326P 24+2 L3 mANAGED PoE Switch,admin,(none)
+seninleyimben,@skan,admin,admin
+Sagem,Livebox,admin,admin
+Inventel,Livebox,admin,admin
+INOVA,ONT4BKP (IP clock),iclock,timely
+D-Link,G624T,admin,admin
+Ricoh,Ricoh,admin,(none)
+infacta,group mail,Administrator,(none)
+Linksys,WRT54GS ,admin,admin
+Lanier,LD335,supervisor,(none)
+3COM,OfficeConnect 812 ADSL,Administrator,admin
+Comcast Home Networking,Comcast Home Networking,comcast,(none)
+SMC,SMC8013WG-CCR,mso,w0rkplac3rul3s
+Zyxel,ES-2108,admin,1234
+D-Link,WBR-1310,admin,(none)
+Sharp,AR-M155,admin,Sharp
+Sharp,MX-5500,admin,admin
+Toshiba,E-Studio 4511c,admin,123456
+Leviton,47611-GT5,admin,leviton
+Nortel,Passport 2430,Manager,(none)
+BUFFALO,WLAR-L11-L / WLAR-L11G-L,root,(none)
+Xerox,6204,n/a,0
+iDirect,iNFINITY series,admin,P@55w0rd!
+iDirect,iNFINITY series,root,iDirect
+US Robotics,USR5462,n/a,admin
+telecom,home hauwei,operator,(none)
+Davolink,DV2020,user,user
+motorola,sgb900,admin,motorola
+zyxel,g-570s,n/a,admin
+Beetel,ADSL Modem,admin,password
+Linksys,WAG354G,admin,admin
+QLogic,SANbox 5602 Fibre Channel Switch,admin,password
+QLogic,SANbox 5602 Fibre Channel Switch,images,images
+Lucent,Cellpipe,n/a,admin
+Buffalo Technology,TeraStation,admin,password
+linksys,wag354g,admin,admin
+Thomson,TCW-710,(none),admin
+Ricoh,Aficio 551,(none),sysadm
+Cisco,PIX,enable,(none)
+Guru,Wireless ADSL2,admin,admin
+Colubris,MSC,admin,admin
+Netgear,WGR614,admin,draadloos
+T-Com,Speedport Router Family,(none),0
+Mikrotik,Mikrotik,admin,(none)
+Zyxel,Prestige 650HW31,192.168.1.1 60020,@dsl_xilno
+Netgear,MR814,admin,password
+Motorola,SURFboard,admin,motorola
+linksys,BEFW11S4,(none),admin
+WLAN_3D,Router,Administrator,admin
+Brother,HL5270DN,admin,access
+TrendMicro,InterScan 7.0,admin,imss7.0
+Promise,NS4300N NAS,engmode,hawk201
+Ricoh,Aficio 1018d,n/a,sysadm
+Ricoh,Aficio 1013F,n/a,sysadm
+Polycom,SoundPoint IP Phones,Polycom,456
