@@ -1,0 +1,3 @@
+admin:Admin123
+admin:admin@123
+huawei:huawei
