@@ -1,0 +1,11 @@
+admin:nsfocus@123
+audit:audit
+webaudit:webaudit
+nsfocus:nsfocus
+nsfocus:nsfocus123
+nsfocus:nsf0cus
+nsfocus:Nsf0cus123
+nsfocus:Nsf0cus
+nsfocus:nsfocus123456
+nsfocus:ns123456
+nsfocus:nsfocus!@#
