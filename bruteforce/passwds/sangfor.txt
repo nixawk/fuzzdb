@@ -1,0 +1,12 @@
+admin:admin
+sangfor:123456
+sangfor:sangfor
+sangfor:sangfor.com
+sangfor:sinfor.com
+root:sangfor
+famyd:hdpi_12345
+wangshuai:123456
+zsystem:sinfor
+superman:talent@123
+superman:talent#123
+superman:Talent@123
