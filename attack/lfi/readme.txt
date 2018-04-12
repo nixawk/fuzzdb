@@ -1,3 +1,3 @@
 other tools:
 
-fimap http://code.google.com/p/fimap/
+fimap https://tha-imax.de/git/root/fimap
